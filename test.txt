@@ -1,0 +1,3018 @@
+United States Court of Appeals
+
+             FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+Argued September 9, 2013      Decided January 14, 2014
+
+No. 11-1355
+
+ VERIZON,
+APPELLANT
+
+                          v.
+
+FEDERAL COMMUNICATIONS COMMISSION,
+                   APPELLEE
+
+INDEPENDENT TELEPHONE & TELECOMMUNICATIONS
+                    ALLIANCE, ET AL.,
+                       INTERVENORS
+
+Consolidated with 11-1356
+
+      On Petition For Review and Notice of Appeal
+of an Order of the Federal Communications Commission
+
+    Helgi C. Walker argued the cause for appellant/petitioner
+Verizon. With her on the briefs were Eve Klindera Reed,
+William S. Consovoy, Brett A. Shumate, Walter E. Dellinger,
+Anton Metlitsky, Samir C. Jain, Carl W. Northrup, Michael
+Lazarus, Andrew Morentz, Michael E. Glover, William H.
+Johnson, Stephen B. Kinnaird, and Mark A. Stachiw. John T.
+Scott III and Edward Shakin entered appearances.
+                                     2
+
+    Stephen B. Kinnaird, Carl W. Northrup, Michael Lazarus,
+Andrew Morentz, and Mark A. Stachiw were on the briefs for
+appellants/petitioners MetroPCS Communications, Inc., et al.
+
+    John P. Elwood, Sam Kazman, Randolph May, and Ilya
+Shapiro were on the brief for amici curiae The Competitive
+Enterprise Institute, et al. in support of appellant/petitioner.
+
+    Russell P. Hanser, Bryan N. Tramont, and Quentin Riegel
+were on the brief for amicus curiae National Association of
+Manufacturers in support of appellant/petitioner.
+
+    Kenneth T. Cuccinelli, II, Attorney General, Office of the
+Attorney General for the Commonwealth of Virginia, E.
+Duncan Getchell, Jr., Solicitor General, and Wesley G. Russell,
+Jr., Deputy Attorney General, were on the brief for amici
+curiae The Commonwealth of Virginia, et al. in support of
+appellant/petitioner.
+
+    Sean A. Lev, General Counsel, Federal Communications
+Commission, argued the cause for appellee/respondent. With
+him on the briefs were Catherine G. O'Sullivan and Nickolai
+G. Levin, Attorneys, U.S. Department of Justice, Peter
+Karanjia, Deputy General Counsel, Federal Communications
+Commission, Jacob M. Lewis, Associate General Counsel, and
+Joel Marcus and Matthew J. Dunne, Counsel. Robert J.
+Wiggers, Attorney, U.S. Department of Justice, R. Craig
+Lawrence, Assistant U.S. Attorney, and Richard K. Welch,
+Deputy Associate General Counsel, Federal Communications
+Commission, entered appearances.
+
+    Pantelis Michalopoulos argued the cause for intervenors.
+With him on the brief were Stephanie A. Roy, Andrew W. Guhr,
+Henry Goldberg, David C. Bergmann, Kurt Matthew Rogers,
+and Brendan Daniel Kasper. Markham C. Erickson, Jeffrey J.
+                                     3
+
+Binder, Harold J. Feld and James B. Ramsay entered
+appearances.
+
+    Sean H. Donahue and David T. Goldberg were on the brief
+for amici curiae Reed Hundt, et al. in support of
+appellee/respondent.
+
+    E. Joshua Rosenkranz, Gabriel M. Ramsey, Thomas J.
+Gray, and Christina Von der Ahe were on the brief for amici
+curiae Venture Capital Investors in support of
+appellee/respondent.
+
+    Andrew Jay Schwartzman was on the brief for amicus
+curiae Tim Wu in support of appellee/respondent.
+
+    John Blevins was on the brief for amici curiae Internet
+Engineers and Technologists in support of
+appellee/respondent.
+
+    Kevin S. Bankston and Emma J. Llansó were on the brief
+for amici curiae The Center for Democracy and Technology, et
+al. in support of appellee/respondent.
+
+    Before: ROGERS and TATEL, Circuit Judges, and
+SILBERMAN, Senior Circuit Judge.
+
+    Opinion for the Court filed by Circuit Judge TATEL.
+
+    Opinion concurring in part and dissenting in part filed by
+Senior Circuit Judge SILBERMAN.
+
+     TATEL, Circuit Judge: For the second time in four years,
+we are confronted with a Federal Communications
+Commission effort to compel broadband providers to treat all
+Internet traffic the same regardless of source--or to require, as
+                                     4
+
+it is popularly known, "net neutrality." In Comcast Corp. v.
+FCC, 600 F.3d 642 (D.C. Cir. 2010), we held that the
+Commission had failed to cite any statutory authority that
+would justify its order compelling a broadband provider to
+adhere to open network management practices. After Comcast,
+the Commission issued the order challenged here--In re
+Preserving the Open Internet, 25 F.C.C.R. 17905 (2010) ("the
+Open Internet Order")--which imposes disclosure,
+anti-blocking, and anti-discrimination requirements on
+broadband providers. As we explain in this opinion, the
+Commission has established that section 706 of the
+Telecommunications Act of 1996 vests it with affirmative
+authority to enact measures encouraging the deployment of
+broadband infrastructure. The Commission, we further hold,
+has reasonably interpreted section 706 to empower it to
+promulgate rules governing broadband providers' treatment of
+Internet traffic, and its justification for the specific rules at
+issue here--that they will preserve and facilitate the "virtuous
+circle" of innovation that has driven the explosive growth of
+the Internet--is reasonable and supported by substantial
+evidence. That said, even though the Commission has general
+authority to regulate in this arena, it may not impose
+requirements that contravene express statutory mandates.
+Given that the Commission has chosen to classify broadband
+providers in a manner that exempts them from treatment as
+common carriers, the Communications Act expressly prohibits
+the Commission from nonetheless regulating them as such.
+Because the Commission has failed to establish that the
+anti-discrimination and anti-blocking rules do not impose per
+se common carrier obligations, we vacate those portions of the
+Open Internet Order.
+                                     5
+
+                                    I.
+
+     Understanding this case requires an understanding of the
+Internet, the Internet marketplace, and the history of the
+Commission's regulation of that marketplace.
+
+     Four major participants in the Internet marketplace are
+relevant to the issues before us: backbone networks, broadband
+providers, edge providers, and end users. Backbone networks
+are interconnected, long-haul fiber-optic links and high-speed
+routers capable of transmitting vast amounts of data. See In re
+Verizon Communications Inc. and MCI, Inc. Applications for
+Approval of Transfer of Control, 20 F.C.C.R. 18433, 18493
+¶ 110 (2005). Internet users generally connect to these
+networks--and, ultimately, to one another--through local
+access providers like petitioner Verizon, who operate the
+"last-mile" transmission lines. See Open Internet Order, 25
+F.C.C.R. at 17908, 17915 ¶¶ 7, 20. In the Internet's early days,
+most users connected to the Internet through dial-up
+connections over local telephone lines. See In re Inquiry
+Concerning High-Speed Access to the Internet Over Cable and
+Other Facilities, 17 F.C.C.R. 4798, 4802­03 ¶ 9 (2002)
+("Cable Broadband Order"). Today, access is generally
+furnished through "broadband," i.e., high-speed
+communications technologies, such as cable modem service.
+See In re Inquiry Concerning the Deployment of Advanced
+Telecommunications Capability to All Americans in a
+Reasonable and Timely Fashion, 25 F.C.C.R. 9556, 9557,
+9558­59 ¶¶ 1, 4 (2010) ("Sixth Broadband Deployment
+Report"); 47 U.S.C. § 1302(d)(1). Edge providers are those
+who, like Amazon or Google, provide content, services, and
+applications over the Internet, while end users are those who
+consume edge providers' content, services, and applications.
+See Open Internet Order, 25 F.C.C.R. at 17910 ¶ 13. To pull
+the whole picture together with a slightly oversimplified
+                                     6
+
+example: when an edge provider such as YouTube transmits
+some sort of content--say, a video of a cat--to an end user,
+that content is broken down into packets of information, which
+are carried by the edge provider's local access provider to the
+backbone network, which transmits these packets to the end
+user's local access provider, which, in turn, transmits the
+information to the end user, who then views and hopefully
+enjoys the cat.
+
+     These categories of entities are not necessarily mutually
+exclusive. For example, end users may often act as edge
+providers by creating and sharing content that is consumed by
+other end users, for instance by posting photos on Facebook.
+Similarly, broadband providers may offer content,
+applications, and services that compete with those furnished by
+edge providers. See Open Internet Order, 25 F.C.C.R. at 17915
+¶ 20.
+
+     Proponents of net neutrality--or, to use the Commission's
+preferred term, "Internet openness"--worry about the
+relationship between broadband providers and edge providers.
+They fear that broadband providers might prevent their
+end-user subscribers from accessing certain edge providers
+altogether, or might degrade the quality of their end-user
+subscribers' access to certain edge providers, either as a means
+of favoring their own competing content or services or to
+enable them to collect fees from certain edge providers. Thus,
+for example, a broadband provider like Comcast might limit its
+end-user subscribers' ability to access the New York Times
+website if it wanted to spike traffic to its own news website, or
+it might degrade the quality of the connection to a search
+website like Bing if a competitor like Google paid for
+prioritized access.
+                                     7
+
+     Since the advent of the Internet, the Commission has
+confronted the questions of whether and how it should regulate
+this communications network, which, generally speaking, falls
+comfortably within the Commission's jurisdiction over "all
+interstate and foreign communications by wire or radio." 47
+U.S.C. § 152(a). One of the Commission's early efforts
+occurred in 1980, when it adopted what is known as the
+Computer II regime. The Computer II rules drew a line
+between "basic" services, which were subject to regulation
+under Title II of the Communications Act of 1934 as common
+carrier services, see 47 U.S.C. §§ 201 et seq., and "enhanced"
+services, which were not. See In re Amendment of Section
+64.702 of the Commission's Rules and Regulations, 77
+F.C.C.2d 384, 387 ¶¶ 5­7 (1980) ("Second Computer
+Inquiry"). What distinguished "enhanced" services from
+"basic" services was the extent to which they involved the
+processing of information rather than simply its transmission.
+Id. at 420­21 ¶¶ 96­97. For example, the Commission
+characterized telephone service as a "basic" service, see id. at
+419 ¶ 94, because it involved a "pure" transmission that was
+"virtually transparent in terms of its interaction with customer
+supplied information," id. at 420 ¶ 96. Services that involved
+"computer processing applications . . . used to act on the
+content, code, protocol, and other aspects of the subscriber's
+information"--a definition that encompassed the services
+needed to connect an end user to the Internet--constituted
+enhanced services. Id. at 420 ¶ 97.
+
+     By virtue of their designation as common carriers,
+providers of basic services were subject to the duties that apply
+to such entities, including that they "furnish . . . communication
+service upon reasonable request," 47 U.S.C. § 201(a), engage
+in no "unjust or unreasonable discrimination in charges,
+practices, classifications, regulations, facilities, or services,"
+id. § 202(a), and charge "just and reasonable" rates, id.
+                                     8
+
+§ 201(b). Although the Commission applied no such
+restrictions to purveyors of enhanced services, it imposed
+limitations on certain entities, like AT&T, which owned the
+transmission facilities over which enhanced services would be
+provided. Second Computer Inquiry, 77 F.C.C.2d at 473­74
+¶¶ 228­29. These restrictions included, most significantly,
+requirements that such entities offer enhanced services only
+through a completely separate corporate entity and that they
+offer their transmissions facilities to other enhanced service
+providers on a common carrier basis. Id.
+
+     For more than twenty years, the Commission applied some
+form of the Computer II regime to Internet services offered
+over telephone lines, then the predominant way in which most
+end users connected to the Internet. See, e.g., In re Appropriate
+Framework for Broadband Access to the Internet Over
+Wireline Facilities, 17 F.C.C.R. 3019, 3037­40 ¶¶ 36­42
+(2002). Telephone companies that provided the actual wireline
+facilities over which information was transmitted were limited
+in the manner in which they could provide the enhanced
+services necessary to permit end users to access the Internet. Id.
+at 3040 ¶ 42. They were also required to permit third-party
+Internet Service Providers (ISPs), such as America Online, to
+access their wireline transmission facilities on a common
+carrier basis. Id.
+
+     It was against this background that Congress passed the
+Telecommunications Act of 1996, Pub. L. No. 104-104, 110
+Stat. 56. Tracking the Computer II distinction between basic
+and enhanced services, the Act defines two categories of
+entities: telecommunications carriers, which provide the
+equivalent of basic services, and information-service
+providers, which provide the equivalent of enhanced services.
+47 U.S.C. § 153(24), (50), (51), (53); see National Cable &
+Telecommunications Ass'n v. Brand X Internet Services, 545
+                                     9
+
+U.S. 967, 976­77 (2005). The Act subjects
+telecommunications carriers, but not information-service
+providers, to Title II common carrier regulation. 47 U.S.C.
+§ 153(53); Brand X, 545 U.S. at 975­76.
+
+     Pursuant to the Act, and paralleling its prior practice under
+the Computer II regime, the Commission then classified
+Digital Subscriber Line (DSL) services--broadband Internet
+service furnished over telephone lines--as
+"telecommunications services." See In re Deployment of
+Wireline Services Offering Advanced Telecommunications
+Capability, 13 F.C.C.R. 24012, 24014, 24029­30 ¶¶ 3, 35­36
+(1998) ("Advanced Services Order"). DSL services, the
+Commission concluded, involved pure transmission
+technologies, and so were subject to Title II regulation. Id. at
+24030­31 ¶ 35. A DSL provider could exempt its Internet
+access services, but not its transmission facilities themselves,
+from Title II common carrier restrictions only by operating
+them through a separate affiliate (i.e., a quasi-independent
+ISP). Id. at 24018 ¶ 13.
+
+     Four years later, however, the Commission took a
+different approach when determining how to regulate
+broadband service provided by cable companies. Instead of
+viewing cable broadband providers' transmission and
+processing of information as distinct services, the Commission
+determined that cable broadband providers--even those that
+own and operate the underlying last-mile transmission
+facilities--provide a "single, integrated information service."
+Cable Broadband Order, 17 F.C.C.R. at 4824 ¶ 41. Because
+cable broadband providers were thus not telecommunications
+carriers at all, they were entirely exempt from Title II
+regulation. Id. at 4802 ¶ 7.
+                                    10
+
+     In National Cable & Telecommunications Ass'n v. Brand
+X Internet Services, 545 U.S. 967 (2005), the Supreme Court
+upheld the Commission's classification of cable broadband
+providers. The Court concluded that the Commission's ruling
+represented a reasonable interpretation of the 1996
+Telecommunications Act's ambiguous provision defining
+telecommunications service, see id. at 991­92, and that the
+Commission's determination was entitled to deference
+notwithstanding its apparent inconsistency with the agency's
+prior interpretation of that statute, see id. at 981, 1000­01.
+
+     Following Brand X, the Commission classified other types
+of broadband providers, such as DSL and wireless, which
+includes those offering broadband Internet service for cellular
+telephones, as information service providers exempt from Title
+II's common carrier requirements. See In re Appropriate
+Framework for Broadband Access to the Internet Over
+Wireline Facilities, 20 F.C.C.R. 14853, 14862 ¶ 12 (2005)
+("2005 Wireline Broadband Order"); In re Appropriate
+Regulatory Treatment for Broadband Access to the Internet
+Over Wireless Networks, 22 F.C.C.R. 5901, 5901­02 ¶ 1
+(2007) ("Wireless Broadband Order"); In re United Power
+Line Council's Petition for Declaratory Ruling Regarding the
+Classification of Broadband over Power Line Internet Access
+Service as an Information Service, 21 F.C.C.R. 13281, 13281
+¶ 1 (2006). Despite calls to revisit these classification orders,
+see, e.g., Open Internet Order, 25 F.C.C.R. at 18046
+(concurring statement of Commissioner Copps), the
+Commission has yet to overrule them.
+
+     But even as the Commission exempted broadband
+providers from Title II common carrier obligations, it left open
+the possibility that it would nonetheless regulate these entities.
+In the Cable Broadband Order, for example, the Commission
+sought comment on whether and to what extent it should utilize
+                                    11
+
+the powers granted it under Title I of the Communications Act
+to impose restrictions on cable broadband providers. Cable
+Broadband Order, 17 F.C.C.R. at 4842 ¶ 77. Subsequently, in
+conjunction with the 2005 Wireline Broadband Order, the
+Commission issued a Policy Statement in which it signaled its
+intention to "preserve and promote the open and
+interconnected nature of the public Internet." In re Appropriate
+Framework for Broadband Access to the Internet Over
+Wireline Facilities, 20 F.C.C.R. 14986, 14988 ¶ 4 (2005). The
+Commission announced that should it "see evidence that
+providers of telecommunications for Internet access or
+IP-enabled services are violating these principles," it would
+"not hesitate to take action to address that conduct." 2005
+Wireline Broadband Order, 20 F.C.C.R. at 14904 ¶ 96.
+
+     The Commission did just that when, two years later,
+several subscribers to Comcast's cable broadband service
+complained that the company had interfered with their use of
+certain peer-to-peer networking applications. See In re Formal
+Complaint of Free Press and Public Knowledge Against
+Comcast Corp. for Secretly Degrading Peer-to-Peer
+Applications, 23 F.C.C.R. 13028 (2008) ("Comcast Order").
+Finding that Comcast's impairment of these applications had
+"contravene[d] . . . federal policy," id. at 13052 ¶ 43, the
+Commission ordered the company to adhere to a new approach
+for managing bandwidth demand and to disclose the details of
+that approach, id. at 13059­60 ¶ 54. The Commission justified
+its order as an exercise of what courts term its "ancillary
+jurisdiction," see id. at 13034­41 ¶¶ 14­22, a power that flows
+from the broad language of Communications Act section 4(i).
+See 47 U.S.C. § 154(i) ("The Commission may perform any
+and all acts, make such rules and regulations, and issue such
+orders, not inconsistent with this chapter, as may be necessary
+in the execution of its functions."); see generally American
+Library Ass'n v. FCC, 406 F.3d 689, 700­03 (D.C. Cir. 2005).
+                                    12
+
+We have held that the Commission may exercise such ancillary
+jurisdiction where two conditions are met: "(1) the
+Commission's general jurisdictional grant under Title I covers
+the regulated subject and (2) the regulations are reasonably
+ancillary to the Commission's effective performance of its
+statutorily mandated responsibilities." American Library
+Ass'n, 406 F.3d at 691­92.
+
+     In Comcast, we vacated the Commission's order, holding
+that the agency failed to demonstrate that it possessed authority
+to regulate broadband providers' network management
+practices. 600 F.3d at 644. Specifically, we held that the
+Commission had identified no grant of statutory authority to
+which the Comcast Order was reasonably ancillary. Id. at 661.
+The Commission had principally invoked statutory provisions
+that, though setting forth congressional policy, delegated no
+actual regulatory authority. Id. at 651­58. These provisions, we
+concluded, were insufficient because permitting the agency to
+ground its exercise of ancillary jurisdiction in policy
+statements alone would contravene the "`axiomatic' principle
+that `administrative agencies may [act] only pursuant to
+authority delegated to them by Congress.'" Id. at 654
+(alteration in original) (quoting American Library Ass'n, 406
+F.3d at 691). We went on to reject the Commission's
+invocation of a handful of other statutory provisions that,
+although they could "arguably be read to delegate regulatory
+authority," id. at 658, provided no support for the precise order
+at issue, id. at 658­61.
+
+     While the Comcast matter was pending, the Commission
+sought comment on a set of proposed rules that, with some
+modifications, eventually became the rules at issue here. See In
+re Preserving the Open Internet, 24 F.C.C.R. 13064 (2009). In
+support, it relied on the same theory of ancillary jurisdiction it
+had asserted in the Comcast Order. See id. at 13099 ¶¶ 83­85.
+                                    13
+
+But after our decision in Comcast undermined that theory, the
+Commission sought comment on whether and to what extent it
+should reclassify broadband Internet services as
+telecommunications services. See In re Framework for
+Broadband Internet Service, 25 F.C.C.R. 7866, 7867 ¶ 2
+(2010). Ultimately, however, rather than reclassifying
+broadband, the Commission adopted the Open Internet Order
+that Verizon challenges here. See 25 F.C.C.R. 17905.
+
+     The Open Internet Order establishes two sets of
+"prophylactic rules" designed to "incorporate longstanding
+openness principles that are generally in line with current
+practices." 25 F.C.C.R. at 17907 ¶ 4. One set of rules applies to
+"fixed" broadband providers--i.e., those furnishing residential
+broadband service and, more generally, Internet access to end
+users "primarily at fixed end points using stationary
+equipment." Id. at 17934 ¶ 49. The other set of requirements
+applies to "mobile" broadband providers--i.e., those
+"serv[ing] end users primarily using mobile stations," such as
+smart phones. Id.
+
+     The Order first imposes a transparency requirement on
+both fixed and mobile broadband providers. Id. at 17938 ¶ 56.
+They must "publicly disclose accurate information regarding
+the network management practices, performance, and
+commercial terms of [their] broadband Internet access
+services." Id. at 17937 ¶ 54 (fixed providers); see also id. at
+17959 ¶ 98 (mobile providers).
+
+     Second, the Order imposes anti-blocking requirements on
+both types of broadband providers. It prohibits fixed
+broadband providers from "block[ing] lawful content,
+applications, services, or non-harmful devices, subject to
+reasonable network management." Id. at 17942 ¶ 63. Similarly,
+the Order forbids mobile providers from "block[ing]
+                                    14
+
+consumers from accessing lawful websites" and from
+"block[ing] applications that compete with the provider's
+voice or video telephony services, subject to reasonable
+network management." Id. at 17959 ¶ 99. The Order defines
+"reasonable network management" as practices designed to
+"ensur[e] network security and integrity," "address[] traffic
+that is unwanted by end users," "and reduc[e] or mitigat[e] the
+effects of congestion on the network." Id. at 17952 ¶ 82. The
+anti-blocking rules, the Order explains, not only prohibit
+broadband providers from preventing their end-user
+subscribers from accessing a particular edge provider
+altogether, but also prohibit them "from impairing or
+degrading particular content, applications, services, or
+non-harmful devices so as to render them effectively
+unusable." Id. at 17943 ¶ 66.
+
+     Third, the Order imposes an anti-discrimination
+requirement on fixed broadband providers only. Under this
+rule, such providers "shall not unreasonably discriminate in
+transmitting lawful network traffic over a consumer's
+broadband Internet access service. Reasonable network
+management shall not constitute unreasonable discrimination."
+Id. at 17944 ¶ 68. The Commission explained that
+"[u]se-agnostic discrimination"--that is, discrimination based
+not on the nature of the particular traffic involved, but rather,
+for example, on network management needs during periods of
+congestion--would generally comport with this requirement.
+Id. at 17945­46 ¶ 73. Although the Commission never
+expressly said that the rule forbids broadband providers from
+granting preferred status or services to edge providers who pay
+for such benefits, it warned that "as a general matter, it is
+unlikely that pay for priority would satisfy the `no
+unreasonable discrimination' standard." Id. at 17947 ¶ 76.
+Declining to impose the same anti-discrimination requirement
+on mobile providers, the Commission explained that
+                                    15
+
+differential treatment of such providers was warranted because
+the mobile broadband market was more competitive and more
+rapidly evolving than the fixed broadband market, network
+speeds and penetration were lower, and operational constraints
+were higher. See id. at 17956­57 ¶¶ 94­95.
+
+     As authority for the adoption of these rules, the
+Commission invoked a plethora of statutory provisions. See id.
+at 17966­81 ¶¶ 115­37. In particular, the Commission relied
+on section 706 of the 1996 Telecommunications Act, which
+directs it to encourage the deployment of broadband
+telecommunications capability. See 47 U.S.C. § 1302(a), (b).
+According to the Commission, the rules furthered this statutory
+mandate by preserving unhindered the "virtuous circle of
+innovation" that had long driven the growth of the Internet.
+Open Internet Order, 25 F.C.C.R. at 17910­11 ¶ 14; see id. at
+17968, 17972 ¶¶ 117, 123. Internet openness, it reasoned, spurs
+investment and development by edge providers, which leads to
+increased end-user demand for broadband access, which leads
+to increased investment in broadband network infrastructure
+and technologies, which in turn leads to further innovation and
+development by edge providers. Id. at 17910­11 ¶ 14. If, the
+Commission continued, broadband providers were to disrupt
+this "virtuous circle" by "[r]estricting edge providers' ability to
+reach end users, and limiting end users' ability to choose which
+edge providers to patronize," they would "reduce the rate of
+innovation at the edge and, in turn, the likely rate of
+improvements to network infrastructure." Id. at 17911 ¶ 14.
+
+     Two members of the Commission dissented. As they saw
+it, the Open Internet Order rules not only exceeded the
+Commission's lawful authority, but would also stifle rather
+than encourage innovation. See Open Internet Order, 25
+F.C.C.R. at 18049­81 (Dissenting Statement of Commissioner
+                                    16
+
+McDowell); id. at 18084­98 (Dissenting Statement of
+Commissioner Baker).
+
+     Verizon filed a petition for review of the Open Internet
+Order pursuant to 47 U.S.C. § 402(a) as well as a notice of
+appeal pursuant to 47 U.S.C. § 402(b). Because "we plainly
+have jurisdiction by the one procedural route or the other," "we
+need not decide which is the more appropriate vehicle for our
+review." Cellco Partnership v. FCC, 700 F.3d 534, 541 (D.C.
+Cir. 2012) (internal quotation marks omitted).
+
+     Verizon challenges the Open Internet Order on several
+grounds, including that the Commission lacked affirmative
+statutory authority to promulgate the rules, that its decision to
+impose the rules was arbitrary and capricious, and that the rules
+contravene statutory provisions prohibiting the Commission
+from treating broadband providers as common carriers. In Part
+II, we consider Verizon's attacks on the Commission's
+affirmative statutory authority and its justification for
+imposing these rules. We consider the common carrier issue in
+Part III. Given our disposition of the latter issue, we have no
+need to address Verizon's additional contentions that the Order
+violates the First Amendment and constitutes an
+uncompensated taking.
+
+     Before beginning our analysis, we think it important to
+emphasize that although the question of net neutrality
+implicates serious policy questions, which have engaged
+lawmakers, regulators, businesses, and other members of the
+public for years, our inquiry here is relatively limited.
+"Regardless of how serious the problem an administrative
+agency seeks to address, . . . it may not exercise its authority in
+a manner that is inconsistent with the administrative structure
+that Congress enacted into law." Ragsdale v. Wolverine World
+Wide, Inc., 535 U.S. 81, 91 (2002) (internal quotation marks
+                                    17
+
+omitted). Accordingly, our task as a reviewing court is not to
+assess the wisdom of the Open Internet Order regulations, but
+rather to determine whether the Commission has demonstrated
+that the regulations fall within the scope of its statutory grant of
+authority.
+
+                                    II.
+
+     The Commission cites numerous statutory provisions it
+claims grant it the power to promulgate the Open Internet
+Order rules. But we start and end our analysis with section 706
+of the 1996 Telecommunications Act, which, as we shall
+explain, furnishes the Commission with the requisite
+affirmative authority to adopt the regulations.
+
+     Section 706(a) provides:
+
+      The Commission and each State commission with
+      regulatory jurisdiction over telecommunications
+      services shall encourage the deployment on a
+      reasonable and timely basis of advanced
+      telecommunications capability to all Americans
+      (including, in particular, elementary and secondary
+      schools and classrooms) by utilizing, in a manner
+      consistent with the public interest, convenience, and
+      necessity, price cap regulation, regulatory
+      forbearance, measures that promote competition in
+      the local telecommunications market, or other
+      regulating methods that remove barriers to
+      infrastructure investment.
+
+47 U.S.C. § 1302(a). Section 706(b), in turn, requires the
+Commission to conduct a regular inquiry "concerning the
+availability of advanced telecommunications capability." Id.
+§ 1302(b). It further provides that should the Commission find
+that "advanced telecommunications capability is [not] being
+                                    18
+
+deployed to all Americans in a reasonable and timely fashion,"
+it "shall take immediate action to accelerate deployment of
+such capability by removing barriers to infrastructure
+investment and by promoting competition in the
+telecommunications market." Id. The statute defines
+"advanced telecommunications capability" to include
+"broadband telecommunications capability." Id. § 1302(d)(1).
+
+     Verizon contends that neither subsection (a) nor (b) of
+section 706 confers any regulatory authority on the
+Commission. As Verizon sees it, the two subsections amount
+to nothing more than congressional statements of policy.
+Verizon further contends that even if either provision grants
+the Commission substantive authority, the scope of that grant is
+not so expansive as to permit the Commission to regulate
+broadband providers in the manner that the Open Internet
+Order rules do. In addressing these questions, we apply the
+familiar two-step analysis of Chevron, U.S.A., Inc. v. Natural
+Resources Defense Council, Inc., 467 U.S. 837 (1984). As the
+Supreme Court has recently made clear, Chevron deference is
+warranted even if the Commission has interpreted a statutory
+provision that could be said to delineate the scope of the
+agency's jurisdiction. See City of Arlington v. FCC, 133 S. Ct.
+1863, 1874 (2013). Thus, if we determine that the
+Commission's interpretation of section 706 represents a
+reasonable resolution of a statutory ambiguity, we must defer
+to that interpretation. See Chevron, 467 U.S. at 842­43. The
+Chevron inquiry overlaps substantially with that required by
+the Administrative Procedure Act (APA), pursuant to which
+we must also determine whether the Commission's actions
+were "arbitrary, capricious, an abuse of discretion, or
+otherwise not in accordance with law." 5 U.S.C. § 706(2)(A);
+see National Ass'n of Regulatory Utility Commissioners v.
+Interstate Commerce Commission, 41 F.3d 721, 726­27 (D.C.
+Cir. 1994).
+                                    19
+
+                                     A.
+
+     This is not the first time the Commission has asserted that
+section 706(a) grants it authority to regulate broadband
+providers. Advancing a similar argument in Comcast, the
+Commission contended that section 706(a) provided a
+statutory hook for its exercise of ancillary jurisdiction.
+Although we thought that section 706(a) might "arguably be
+read to delegate regulatory authority to the Commission," we
+concluded that the Commission could not rely on this provision
+to justify the Comcast Order because it had previously
+determined, in the still-binding Advanced Services Order, that
+the provision "`does not constitute an independent grant of
+authority.'" Comcast, 600 F.3d at 658 (quoting Advanced
+Services Order, 13 F.C.C.R. at 24047 ¶ 77). We rejected the
+Commission's claim that the Advanced Services Order
+concluded only that section 706(a) granted it no forbearance
+authority--authority to relieve regulated entities of statutory
+obligations to which they would otherwise be subject, see 47
+U.S.C. § 160--over and above that given it elsewhere in the
+Communications Act. Comcast, 600 F.3d at 658. Indeed, the
+Advanced Services Order was clearly far broader, explicitly
+declaring: "section 706(a) does not constitute an independent
+grant of forbearance authority or of authority to employ other
+regulating methods." Advanced Services Order, 13 F.C.C.R. at
+24044 ¶ 69 (emphasis added). Because the Commission had
+"never questioned, let alone overruled, that understanding of
+section 706," we held that it "remain[ed] bound" by its prior
+interpretation. Comcast, 600 F.3d at 659.
+
+     But the Commission need not remain forever bound by the
+Advanced Services Order's restrictive reading of section
+706(a). "An initial agency interpretation is not instantly carved
+in stone." Chevron, 467 U.S. at 863. The APA's requirement of
+reasoned decision-making ordinarily demands that an agency
+                                    20
+
+acknowledge and explain the reasons for a changed
+interpretation. See FCC v. Fox Television Stations, Inc., 556
+U.S. 502, 515 (2009) ("An agency may not . . . depart from a
+prior policy sub silentio or simply disregard rules that are still
+on the books."); Brand X, 545 U.S. at 981 ("Unexplained
+inconsistency is, at most, a reason for holding an interpretation
+to be an arbitrary and capricious change from agency practice
+under the Administrative Procedure Act."). But so long as an
+agency "adequately explains the reasons for a reversal of
+policy," its new interpretation of a statute cannot be rejected
+simply because it is new. Brand X, 545 U.S. at 981. At the time
+we issued our Comcast opinion, the Commission failed to
+satisfy this requirement, as its assertion that section 706(a)
+gave it regulatory authority represented, at that point, an
+attempt to "`depart from a prior policy sub silentio.'" Comcast,
+600 F.3d at 659 (quoting Fox, 556 U.S. at 515).
+
+     In the Open Internet Order, however, the Commission has
+offered a reasoned explanation for its changed understanding
+of section 706(a). To be sure, the Open Internet Order evinces
+a palpable reluctance to accept this court's interpretation of the
+Advanced Services Order, as the Commission again attempts
+to reconcile its current understanding of section 706(a) with its
+prior interpretation. See Open Internet Order, 25 F.C.C.R. at
+17969 ¶ 119 (characterizing the Advanced Services Order as
+being "consistent with [the Commission's] present
+understanding"). Of course, such reluctance hardly makes the
+Commission's decision unreasonable, as it is free to express its
+disagreement with this court's holdings. After all, even a
+federal agency is entitled to a little pride. Moreover, although
+the Open Internet Order inaccurately describes the Advanced
+Services Order's actual conclusion, it does describe what the
+Order likely should have concluded. Specifically, the
+Advanced Services Order's rejection of section 706(a) as a
+source of substantive authority rested almost entirely on the
+                                    21
+
+notion that a contrary interpretation would somehow permit the
+Commission to evade express statutory commands forbidding
+it from using its forbearance authority in certain circumstances.
+See Advanced Services Order, 13 F.C.C.R. at 24045­46 ¶¶ 72­
+73. This makes little sense. By the same reasoning, one might
+say that Article I of the Constitution gives Congress no
+substantive authority because Congress might otherwise be
+able to use that authority in a way that violates the Ex Post
+Facto Clause. The Open Internet Order characterizes the
+Advanced Services Order as simply "disavowing a reading of
+Section 706(a) that would allow the agency to trump specific
+mandates of the Communications Act," thus honoring "the
+interpretive canon that `[a] specific provision . . . controls one[]
+of more general application.'" Open Internet Order, 25
+F.C.C.R. at 17969 ¶¶ 118­119 (quoting Bloate v. United
+States, 559 U.S. 196, 207 (2010)). Perhaps the Commission
+should have more openly acknowledged that it was not actually
+describing the Advanced Services Order, but instead rewriting
+it in a more logical manner. In this latter task, however, the
+Commission succeeded: its reinterpretation of the Advanced
+Services Order was more reasonable than the Advanced
+Services Order itself.
+
+     In any event--and more important for our purposes--the
+Commission expressly declared: "To the extent that the
+Advanced Services Order can be construed as having read
+Section 706(a) differently, we reject that reading of the statute
+for the reasons discussed in the text." Open Internet Order, 25
+F.C.C.R. at 17969 ¶ 119 n.370. Setting forth those "reasons" at
+some length, the Commission analyzed the statute's text, its
+legislative history, and the resultant scope of the Commission's
+authority, concluding that each of these considerations
+supports the view that section 706(a) constitutes an affirmative
+grant of regulatory authority. Id. at 17969­70 ¶¶ 119­121. In
+these circumstances, and contrary to Verizon's contentions, we
+                                    22
+
+have no basis for saying that the Commission "casually
+ignored prior policies and interpretations or otherwise failed to
+provide a reasoned explanation" for its changed interpretation.
+Cablevision Systems Corp. v. FCC, 649 F.3d 695, 710 (D.C.
+Cir. 2011) (internal quotation marks omitted).
+
+     The question, then, is this: Does the Commission's current
+understanding of section 706(a) as a grant of regulatory
+authority represent a reasonable interpretation of an ambiguous
+statute? We believe it does.
+
+     Recall that the provision directs the Commission
+to "encourage the deployment . . . of advanced
+telecommunications capability . . . by utilizing . . . price cap
+regulation, regulatory forbearance, measures that promote
+competition in the local telecommunications market, or other
+regulating methods that remove barriers to infrastructure
+investment." 47 U.S.C. § 1302(a). As Verizon argues, this
+language could certainly be read as simply setting forth a
+statement of congressional policy, directing the Commission to
+employ "regulating methods" already at the Commission's
+disposal in order to achieve the stated goal of promoting
+"advanced telecommunications" technology. But the language
+can just as easily be read to vest the Commission with actual
+authority to utilize such "regulating methods" to meet this
+stated goal. As the Commission put it in the Open Internet
+Order, one might reasonably think that Congress, in directing
+the Commission to undertake certain acts, "necessarily
+invested the Commission with the statutory authority to carry
+out those acts." Open Internet Order, 25 F.C.C.R. at 17969
+¶ 120.
+
+     Section 706(a)'s reference to state commissions does not
+foreclose such a reading. Observing that the statute applies to
+both "[t]he Commission and each State commission with
+                                    23
+
+regulatory jurisdiction over telecommunications services," 47
+U.S.C. § 1302(a) (emphasis added), Verizon contends that
+Congress would not be expected to grant both the FCC and
+state commissions the regulatory authority to encourage the
+deployment of advanced telecommunications capabilities. But
+Congress has granted regulatory authority to state
+telecommunications commissions on other occasions, and we
+see no reason to think that it could not have done the same here.
+See, e.g., id. § 251(f) (granting state commissions the authority
+to exempt rural local exchange carriers from certain
+obligations imposed on other incumbents); id. § 252(e)
+(requiring all interconnection agreements between incumbent
+local exchange carriers and entrant carriers to be approved by a
+state commission); see also AT & T Corp. v. Iowa Utilities
+Board, 525 U.S. 366, 385­86 (1999) (describing the
+Commission's power and responsibility to dictate the manner
+in which state commissions exercise such authority). Thus,
+Congress has not "directly spoken" to the question of whether
+section 706(a) is a grant of regulatory authority simply by
+mentioning state commissions in that grant. Chevron, 467 U.S.
+at 842.
+
+     This case, moreover, is a far cry from FDA v. Brown &
+Williamson Tobacco Corp., 529 U.S. 120 (2000), on which
+Verizon principally relies. There, the Supreme Court held that
+"Congress ha[d] clearly precluded the [Food and Drug
+Administration] from asserting jurisdiction to regulate tobacco
+products." Id. at 126. The Court emphasized that the FDA had
+not only completely disclaimed any authority to regulate
+tobacco products, but had done so for more than eighty years,
+and that Congress had repeatedly legislated against this
+background. See id. at 143­59. The Court also observed that
+the FDA's newly adopted conclusion that it did in fact have
+authority to regulate this industry would, given its findings
+regarding the effects of tobacco products and its authorizing
+                                    24
+
+statute, logically require the agency to ban such products
+altogether, a result clearly contrary to congressional policy. See
+id. at 135­43. Furthermore, the Court reasoned, if Congress
+had intended to "delegate a decision of such economic and
+political significance" to the agency, it would have done so far
+more clearly. Id. at 160.
+
+     The circumstances here are entirely different. Although
+the Commission once disclaimed authority to regulate under
+section 706(a), it never disclaimed authority to regulate the
+Internet or Internet providers altogether, nor is there any
+similar history of congressional reliance on such a disclaimer.
+To the contrary, as recounted above, see supra at 7­9, when
+Congress passed section 706(a) in 1996, it did so against the
+backdrop of the Commission's long history of subjecting to
+common carrier regulation the entities that controlled the
+last-mile facilities over which end users accessed the Internet.
+See, e.g., Second Computer Inquiry, 77 F.C.C.2d at 473­74
+¶¶ 228­29. Indeed, one might have thought, as the
+Commission originally concluded, see Advanced Services
+Order, 13 F.C.C.R. at 24029­30 ¶ 35, that Congress clearly
+contemplated that the Commission would continue regulating
+Internet providers in the manner it had previously. Cf. Brand X,
+545 U.S. at 1003 (Breyer, J., concurring) (concluding that the
+Commission's decision to exempt cable broadband providers
+from Title II regulation was "perhaps just barely" within the
+scope of the agency's "statutorily delegated authority"); id. at
+1005 (Scalia, J., dissenting) (arguing that Commission's
+decision "exceeded the authority given it by Congress"). In
+fact, section 706(a)'s legislative history suggests that Congress
+may have, somewhat presciently, viewed that provision as an
+affirmative grant of authority to the Commission whose
+existence would become necessary if other contemplated
+grants of statutory authority were for some reason unavailable.
+The Senate Report describes section 706 as a "necessary
+                                    25
+
+fail-safe" "intended to ensure that one of the primary
+objectives of the [Act]--to accelerate deployment of advanced
+telecommunications capability--is achieved." S. Rep. No.
+104-23 at 50­51. As the Commission observed in the Open
+Internet Order, it would be "odd . . . to characterize Section
+706(a) as a `fail-safe' that `ensures' the Commission's ability
+to promote advanced services if it conferred no actual
+authority." 25 F.C.C.R. at 17970 ¶ 120.
+
+     Verizon directs our attention to a number of bills
+introduced in Congress subsequent to the passage of the 1996
+Act that, if enacted, would have imposed requirements on
+broadband providers similar to those embodied in the
+Commission's Open Internet Order. See, e.g., Internet
+Non-Discrimination Act of 2006, S. 2360, 109th Cong. (2006).
+Such subsequent legislative history, however, provides "`an
+unreliable guide to legislative intent.'" North Broward
+Hospital District v. Shalala, 172 F.3d 90, 98 (D.C. Cir. 1999)
+(quoting Chapman v. United States, 500 U.S. 453, 464 n.4
+(1991)). Moreover, even assuming that Congress's failure to
+impose such restrictions would itself cast light on Congress's
+understanding of the Commission's power to do so, any such
+inferences would be largely countered by Congress's similar
+failure to adopt a proposed resolution that would have
+specifically disapproved of the Commission's promulgation of
+the Open Internet Order. See H.J. Res. 37, 112th Cong. (2011).
+These conflicting pieces of subsequent failed legislation tell us
+little if anything about the original meaning of the
+Telecommunications Act of 1996.
+
+      Thus, although regulation of broadband Internet
+providers certainly involves decisions of great "economic and
+political significance," Brown & Williamson, 529 U.S. at 160,
+we have little reason given this history to think that Congress
+could not have delegated some of these decisions to the
+                                    26
+
+Commission. To be sure, Congress does not, as Verizon
+reminds us, "hide elephants in mouseholes." Whitman v.
+American Trucking Ass'ns, Inc., 531 U.S. 457, 468 (2001). But
+FCC regulation of broadband providers is no elephant, and
+section 706(a) is no mousehole.
+
+     Of course, we might well hesitate to conclude that
+Congress intended to grant the Commission substantive
+authority in section 706(a) if that authority would have no
+limiting principle. See Comcast, 600 F.3d at 655 (rejecting
+Commission's understanding of its authority that "if accepted
+. . . would virtually free the Commission from its congressional
+tether"); cf. Whitman, 531 U.S. at 472­73 (discussing the
+nondelegation doctrine). But we are satisfied that the scope of
+authority granted to the Commission by section 706(a) is not so
+boundless as to compel the conclusion that Congress could
+never have intended the provision to set forth anything other
+than a general statement of policy. The Commission has
+identified at least two limiting principles inherent in section
+706(a). See Open Internet Order, 25 F.C.C.R. at 17970 ¶ 121.
+First, the section must be read in conjunction with other
+provisions of the Communications Act, including, most
+importantly, those limiting the Commission's subject matter
+jurisdiction to "interstate and foreign communication by wire
+and radio." 47 U.S.C. § 152(a). Any regulatory action
+authorized by section 706(a) would thus have to fall within the
+Commission's subject matter jurisdiction over such
+communications--a limitation whose importance this court
+has recognized in delineating the reach of the Commission's
+ancillary jurisdiction. See American Library Ass'n, 406 F.3d at
+703­04. Second, any regulations must be designed to achieve a
+particular purpose: to "encourage the deployment on a
+reasonable and timely basis of advanced telecommunications
+capability to all Americans." 47 U.S.C. § 1302(a). Section
+706(a) thus gives the Commission authority to promulgate only
+                                    27
+
+those regulations that it establishes will fulfill this specific
+statutory goal--a burden that, as we trust our searching
+analysis below will demonstrate, is far from "meaningless."
+Dissenting Op. at 7.
+
+                                    B.
+
+     Section 706(b) has a less tortured history. Until shortly
+before the Commission issued the Open Internet Order, it had
+never considered whether the provision vested it with any
+regulatory authority. The Commission had no need to do so
+because prior to that time it had made no determination that
+advanced telecommunications technologies, including
+broadband Internet access, were not "being deployed to all
+Americans in a reasonable and timely fashion," the
+prerequisite for any purported invocation of authority to "take
+immediate action to accelerate deployment of such capability"
+under section 706(b). 47 U.S.C. § 1302(b).
+
+     In July 2010, however, the Commission concluded that
+"broadband deployment to all Americans is not reasonable and
+timely." Sixth Broadband Deployment Report, 25 F.C.C.R. at
+9558 ¶ 2. This conclusion, the Commission recognized,
+represented a deviation from its five prior assessments. Id. at
+9558 ¶ 2 & n.8. According to the Commission, the change was
+driven by its decision to raise the minimum speed threshold
+qualifying as broadband. Id. at 9558 ¶ 4. "Broadband," as
+defined in the 1996 Telecommunications Act, is Internet
+service furnished at speeds that "enable[] users to originate and
+receive high-quality voice, data, graphics, and video
+telecommunications using any technology." 47 U.S.C.
+§ 1302(d)(1). In 1999, the Commission found this requirement
+satisfied by services "having the capability of supporting . . . a
+speed . . . in excess of 200 kilobits per second (kbps) in the last
+mile." In re Inquiry Concerning the Deployment of Advanced
+Telecommunications Capability to All Americans in a
+                                    28
+
+Reasonable and Timely Fashion, 14 F.C.C.R. 2398, 2406 ¶ 20
+(1999). The Commission chose this threshold because it was
+"enough to provide the most popular forms of broadband--to
+change web pages as fast as one can flip through the pages of a
+book and to transmit full-motion video." Id. That said, the
+Commission recognized that technological developments
+might someday require it to reassess the 200 kbps threshold. Id.
+at 2407­08 ¶ 25.
+
+     In the Sixth Broadband Deployment Report, the
+Commission decided that day had finally arrived. The
+Commission explained that consumers now regularly use their
+Internet connections to access high-quality video and expect to
+be able at the same time to check their email and browse the
+web. Sixth Broadband Deployment Report, 25 F.C.C.R. at
+9562­64 ¶¶ 10­11. Two hundred kbps, the Commission
+determined, "simply is not enough bandwidth" to permit such
+uses. Id. at 9562 ¶ 10. The Commission thus adopted a new
+threshold more appropriate to current consumer behavior and
+expectations: four megabytes per second (mbps) for end users
+to download content from the Internet--twenty times as fast as
+the prior threshold--and one mbps for end users to upload
+content. Id. at 9563 ¶ 11.
+
+     Applying this new benchmark, the Commission found that
+"roughly 80 million American adults do not subscribe to
+broadband at home, and approximately 14 to 24 million
+Americans do not have access to broadband today." Sixth
+Broadband Deployment Report, 25 F.C.C.R. at 9574 ¶ 28.
+Given these figures and the "ever-growing importance of
+broadband to our society," the Commission was unable to find
+"that broadband is being reasonably and timely deployed"
+within the meaning of section 706(b). Id. This conclusion, it
+explained, triggered section 706(b)'s mandate that the
+Commission "take immediate action to accelerate
+                                    29
+
+deployment." Id. at 9558 ¶ 3 (quoting 47 U.S.C. § 1302(b))
+(internal quotation marks omitted).
+
+     Subsequently, in the Open Internet Order the Commission
+made clear that this statutory provision does not limit the
+Commission to using other regulatory authority already at its
+disposal, but instead grants it the power necessary to fulfill the
+statute's mandate. See Open Internet Order, 25 F.C.C.R. at
+17972 ¶ 123. Emphasizing the provision's "shall take
+immediate action" directive, the Commission concluded that
+section 706(b) "provides express authority" for the rules it
+adopted. Id.
+
+     Contrary to Verizon's arguments, we believe the
+Commission has reasonably interpreted section 706(b) to
+empower it to take steps to accelerate broadband deployment if
+and when it determines that such deployment is not
+"reasonable and timely." To be sure, as with section 706(a), it
+is unclear whether section 706(b), in providing that the
+Commission "shall take immediate action to accelerate
+deployment of such capability by removing barriers to
+infrastructure investment and by promoting competition in the
+telecommunications market," vested the Commission with
+authority to remove such barriers to infrastructure investment
+and promote competition. 47 U.S.C. § 1302(b). But the
+provision may certainly be read to accomplish as much, and
+given such ambiguity we have no basis for rejecting the
+Commission's determination that it should be so understood.
+See Chevron, 467 U.S. at 842­43. Moreover, as discussed
+above with respect to section 706(a), see supra at 24­27,
+nothing in the regulatory background or the legislative history
+either before or after passage of the 1996 Telecommunications
+Act forecloses such an understanding. We think it quite
+reasonable to believe that Congress contemplated that the
+Commission would regulate this industry, as the agency had in
+                                    30
+
+the past, and the scope of any authority granted to it by section
+706(b)--limited, as it is, both by the boundaries of the
+Commission's subject matter jurisdiction and the requirement
+that any regulation be tailored to the specific statutory goal of
+accelerating broadband deployment--is not so broad that we
+might hesitate to think that Congress could have intended such
+a delegation.
+
+     Verizon makes two additional arguments regarding the
+Commission's interpretation of section 706(b), both of which
+we can dispose of in relatively short order.
+
+     First, Verizon contends that if section 706(b) gives the
+Commission any regulatory authority, that authority must be
+understood in conjunction with section 706(c), which directs
+the Commission to "compile a list of geographical areas that
+are not served by any provider of advanced
+telecommunications capability." 47 U.S.C. § 1302(c). Thus,
+Verizon claims, any regulations that the Commission might
+adopt pursuant to section 706(b) may not "reach beyond any
+particular `geographical areas that are not served' by any
+broadband provider and apply throughout the country."
+Verizon's Br. 33 (emphasis omitted). By its own terms,
+however, section 706(c) describes simply "part of the inquiry"
+that section 706(b) requires the Commission to conduct
+concerning broadband deployment. 47 U.S.C. § 1302(c)
+(emphasis added). It nowhere purports to delineate all aspects
+of that inquiry. Nor does it limit the actions that the
+Commission may take if, in the course of that inquiry, it
+determines that broadband deployment has not been
+"reasonable and timely."
+
+     Second, Verizon asserts that the Sixth Broadband
+Deployment Report's finding that triggered section 706(b)'s
+grant of regulatory authority "arbitrarily contravened five prior
+                                    31
+
+agency determinations of reasonable and timely deployment."
+Verizon's Br. 33. The timing of the Commission's
+determination is certainly suspicious, coming as it did closely
+on the heels of our rejection in Comcast of the legal theory on
+which the Commission had until then relied to establish its
+authority over broadband providers. But questionable timing,
+by itself, gives us no basis to reject an otherwise reasonable
+finding. Beyond its general assertion that the Commission's
+finding was "arbitrar[y]," Verizon offers no specific reason for
+thinking that the Commission's logical and carefully reasoned
+determination was illegitimate. We can see none.
+
+                                    C.
+
+     This brings us, then, to Verizon's alternative argument
+that even if, as we have held, sections 706(a) and 706(b) grant
+the Commission affirmative authority to promulgate rules
+governing broadband providers, the specific rules imposed by
+the Open Internet Order fall outside the scope of that authority.
+The Commission's theory, to reiterate, is that its regulations
+protect and promote edge-provider investment and
+development, which in turn drives end-user demand for more
+and better broadband technologies, which in turn stimulates
+competition among broadband providers to further invest in
+broadband. See Open Internet Order, 25 F.C.C.R. at 17910­
+11, 17970 ¶¶ 14, 120. Thus, the Commission claims, by
+preventing broadband providers from blocking or
+discriminating against edge providers, the rules "encourage the
+deployment on a reasonable and timely basis of advanced
+telecommunications capability to all Americans," 47 U.S.C.
+§ 1302(a), and "accelerate deployment of such capability," id.
+§ 1302(b), by removing "barriers to infrastructure investment"
+and promoting "competition," id. § 1302(a), (b). See Open
+Internet Order, 25 F.C.C.R. at 17968, 17972 ¶¶ 117, 123. That
+is, contrary to the dissent, see Dissenting Op. at 2­7, the
+Commission made clear--and Verizon appears to
+                                    32
+
+recognize--that the Commission found broadband providers'
+potential disruption of edge-provider traffic to be itself the sort
+of "barrier" that has "the potential to stifle overall investment
+in Internet infrastructure," and could "limit competition in
+telecommunications markets." Open Internet Order, 25
+F.C.C.R. at 17970 ¶ 120.
+
+     Verizon mounts a twofold challenge to this rationale. It
+argues that the Open Internet Order regulations will not, as the
+Commission claims, meaningfully promote broadband
+deployment, and that even if they do advance this goal, the
+manner in which they do so is too attenuated from this statutory
+purpose to fall within the scope of authority granted by either
+statutory provision.
+
+     We begin with the second, more strictly legal, question of
+whether, assuming the Commission has accurately predicted
+the effect of these regulations, it may utilize the authority
+granted to it in sections 706(a) and 706(b) to impose
+regulations of this sort on broadband providers. As we have
+previously acknowledged, "in proscribing . . . practices with
+the statutorily identified effect, an agency might stray so far
+from the paradigm case as to render its interpretation
+unreasonable, arbitrary, or capricious." National Cable &
+Telecommunications Ass'n v. FCC, 567 F.3d 659, 665 (D.C.
+Cir. 2009). Here, Verizon has given us no reason to conclude
+that the Open Internet Order's requirements "stray" so far
+beyond the "paradigm case" that Congress likely contemplated
+as to render the Commission's understanding of its authority
+unreasonable. The rules not only apply directly to broadband
+providers, the precise entities to which section 706 authority to
+encourage broadband deployment presumably extends, but
+also seek to promote the very goal that Congress explicitly
+sought to promote. Because the rules advance this statutory
+goal of broadband deployment by first promoting
+                                    33
+
+edge-provider innovations and end-user demand, Verizon
+derides the Commission's justification as a "triple-cushion
+shot." Verizon's Br. 28. In billiards, however, a triple-cushion
+shot, although perhaps more difficult to complete, counts the
+same as any other shot. The Commission could reasonably
+have thought that its authority to promulgate regulations that
+promote broadband deployment encompasses the power to
+regulate broadband providers' economic relationships with
+edge providers if, in fact, the nature of those relationships
+influences the rate and extent to which broadband providers
+develop and expand their services for end users. See
+Cablevision, 649 F.3d at 709 (holding that Commission had
+not impermissibly "reached beyond the paradigm case" in
+"interpreting a statute focused on the provision of satellite
+programming to authorize terrestrial withholding regulations,"
+because cable companies' ability to withhold terrestrial
+programming would, in turn, discourage potential competitors
+from entering the market to provide satellite programming)
+(internal quotation marks omitted).
+
+     Whether the Commission's assessment of the likely
+effects of the Open Internet Order deserves credence presents
+a slightly more complex question. Verizon attacks the
+reasoning and factual support underlying the Commission's
+"triple-cushion shot" theory, advancing these arguments both
+as an attack on the Commission's statutory interpretation and
+as an APA arbitrary and capricious challenge. Given that these
+two arguments involve similar considerations, we address
+them together. In so doing, "we must uphold the Commission's
+factual determinations if on the record as a whole, there is such
+relevant evidence as a reasonable mind might accept as
+adequate to support [the] conclusion." Secretary of Labor,
+MSHA v. Federal Mine Safety & Health Review Comm'n, 111
+F.3d 913, 918 (D.C. Cir. 1997) (internal quotation marks
+omitted); see 5 U.S.C. § 706(2)(E). We evaluate the
+                                    34
+
+Commission's reasoning to ensure that it has "examine[d] the
+relevant data and articulate[d] a satisfactory explanation for its
+action including a rational connection between the facts found
+and the choice made." National Fuel Gas Supply Corp. v.
+FERC, 468 F.3d 831, 839 (D.C. Cir. 2006) (quoting Motor
+Vehicle Manufacturers Ass'n of U.S. v. State Farm Mutual
+Auto Insurance Co., 463 U.S. 29, 43 (1983)) (internal
+quotation marks omitted). When assessing the reasonableness
+of the Commission's conclusions, we must be careful not to
+simply "`substitute [our] judgment for that of the agency,'"
+especially when the "agency's predictive judgments about the
+likely economic effects of a rule" are at issue. National
+Telephone Cooperative Ass'n v. FCC, 563 F.3d 536, 541 (D.C.
+Cir. 2009) (quoting State Farm, 463 U.S. at 43). Under these
+standards, the Commission's prediction that the Open Internet
+Order regulations will encourage broadband deployment is, in
+our view, both rational and supported by substantial evidence.
+
+     To begin with, the Commission has more than adequately
+supported and explained its conclusion that edge-provider
+innovation leads to the expansion and improvement of
+broadband infrastructure. The Internet, the Commission
+observed in the Open Internet Order, is, "[l]ike electricity and
+the computer," a "`general purpose technology' that enables
+new methods of production that have a major impact on the
+entire economy." Open Internet Order, 25 F.C.C.R. at 17909
+¶ 13. Certain innovations--the lightbulb, for example--create
+a need for infrastructure investment, such as in power
+generation facilities and distribution lines, that complement
+and further drive the development of the initial innovation and
+ultimately the growth of the economy as a whole. See Timothy
+F. Bresnahan & M. Trajtenberg, General purpose
+technologies: `Engines of Growth'? 65 J. ECONOMETRICS 83,
+84 (1995), cited in Open Internet Order, 25 F.C.C.R. at 17909
+¶ 13 n.12; see also Amicus Br. of Internet Engineers and
+                                    35
+
+Technologists 17 (citing Hearing on Internet Security Before
+the H. Comm. on Science, Space, and Technology, 103d Cong.
+(Mar. 22, 1994) (written testimony of Dr. Vinton G. Cerf)).
+The rise of streaming online video is perhaps the best and
+clearest example the Commission used to illustrate that the
+Internet constitutes one such technology: higher-speed
+residential Internet connections in the late 1990s "stimulated"
+the development of streaming video, a service that requires
+particularly high bandwidth, "which in turn encouraged
+broadband providers to increase network speeds." Open
+Internet Order, 25 F.C.C.R. at 17911 ¶ 14 n.23. The
+Commission's emphasis on this connection between
+edge-provider innovation and infrastructure development is
+uncontroversial. Indeed, in its comments to the Commission,
+Verizon, executing a triple-cushion shot of its own,
+acknowledged:
+
+         [T]he social and economic fruits of the Internet
+         economy are the result of a virtuous cycle of
+         innovation and growth between that ecosystem
+         and the underlying infrastructure--the
+         infrastructure enabling the development and
+         dissemination of Internet-based services and
+         applications, with the demand and use of those
+         services . . . driving improvements in the
+         infrastructure which, in turn, support further
+         innovations in services and applications.
+
+Verizon Comments at 42, Docket No. 09-191 (Jan. 14, 2010)
+(internal quotation marks omitted).
+
+     The Commission's finding that Internet openness fosters
+the edge-provider innovation that drives this "virtuous cycle"
+was likewise reasonable and grounded in substantial evidence.
+Continued innovation at the edge, the Commission explained,
+                                    36
+
+"depends upon low barriers to innovation and entry by edge
+providers," and thus restrictions on edge providers' "ability to
+reach end users . . . reduce the rate of innovation." Open
+Internet Order, 25 F.C.C.R. at 17911 ¶ 14. This conclusion
+finds ample support in the economic literature on which the
+Commission relied, see, e.g., Joseph Farrell & Philip J. Weiser,
+Modularity, Vertical Integration, and Open Access Policies:
+Towards a Convergence of Antitrust and Regulation in the
+Internet Age, 17 HARV. J. L. & TECH. 85, 95 (2003), cited in
+Open Internet Order, 25 F.C.C.R. at 17911 ¶ 14 n.25, as well
+as in history and the comments of several edge providers. For
+one prominent illustration of the relationship between
+openness and innovation, the Commission cited the invention
+of the World Wide Web itself by Sir Tim Berners-Lee, who,
+although not working for an entity that operated the underlying
+network, was able to create and disseminate this enormously
+successful innovation without needing to make any changes to
+previously developed Internet protocols or securing "any
+approval from network operators." Open Internet Order, 25
+F.C.C.R. at 17910 ¶ 13 (citing, inter alia, TIM BERNERS-LEE,
+WEAVING THE WEB 16 (2000)). It also highlighted the
+comments of Google and Vonage--both innovative edge
+providers--who emphasized the importance of the Internet's
+open design to permitting new content and services to develop
+at the edge. Id. at 17911 ¶ 14 n.24 & n.25. The record amassed
+by the Commission contains many similar examples, and
+Verizon has given us no basis for questioning the
+Commission's determination that the preservation of Internet
+openness is integral to achieving the statutory objectives set
+forth in Section 706. See id. at 17910­11, 17968, 17972 ¶¶ 14,
+117, 123.
+
+     Equally important, the Commission has adequately
+supported and explained its conclusion that, absent rules such
+as those set forth in the Open Internet Order, broadband
+                                    37
+
+providers represent a threat to Internet openness and could act
+in ways that would ultimately inhibit the speed and extent of
+future broadband deployment. First, nothing in the record gives
+us any reason to doubt the Commission's determination that
+broadband providers may be motivated to discriminate against
+and among edge providers. The Commission observed that
+broadband providers--often the same entities that furnish end
+users with telephone and television services--"have incentives
+to interfere with the operation of third-party Internet-based
+services that compete with the providers' revenue-generating
+telephone and/or pay-television services." Open Internet
+Order, 25 F.C.C.R. at 17916 ¶ 22. As the Commission noted,
+Voice-over-Internet-Protocol (VoIP) services such as Vonage
+increasingly serve as substitutes for traditional telephone
+services, id., and broadband providers like AT&T and Time
+Warner have acknowledged that online video aggregators such
+as Netflix and Hulu compete directly with their own "core
+video subscription service," id. at 17917 ¶ 22 & n.54; see also
+id. at 17918 ¶ 23 n.60 (finding that a study concluding that
+cable companies had sought to exclude networks that
+competed with the companies' own affiliated channels, see
+Austan Goolsbee, Vertical Integration and the Market for
+Broadcast and Cable Television Programming, Paper for the
+Federal Communications Commission 31­32 (Sept. 5, 2007),
+"provides empirical evidence that cable providers have acted in
+the past on anticompetitive incentives to foreclose rivals").
+Broadband providers also have powerful incentives to accept
+fees from edge providers, either in return for excluding their
+competitors or for granting them prioritized access to end
+users. See id. at 17918­19 ¶¶ 23­24. Indeed, at oral argument
+Verizon's counsel announced that "but for [the Open Internet
+Order] rules we would be exploring those commercial
+arrangements." Oral Arg. Tr. 31. And although broadband
+providers might not adopt pay-for-priority agreements or other
+similar arrangements if, according to the Commission's
+                                    38
+
+analysis, such agreements would ultimately lead to a decrease
+in end-user demand for broadband, the Commission explained
+that the resultant harms to innovation and demand will largely
+constitute "negative externalities": any given broadband
+provider will "receive the benefits of . . . fees but [is] unlikely
+to fully account for the detrimental impact on edge providers'
+ability and incentive to innovate and invest." Open Internet
+Order, 25 F.C.C.R. at 17919­20 ¶ 25 & n.68. Although
+Verizon dismisses the Commission's assertions regarding
+broadband providers' incentives as "pure speculation,"
+Verizon's Br. 52, see also Dissenting Op. at 15, those
+assertions are, at the very least, speculation based firmly in
+common sense and economic reality.
+
+     Moreover, as the Commission found, broadband providers
+have the technical and economic ability to impose such
+restrictions. Verizon does not seriously contend otherwise. In
+fact, there appears little dispute that broadband providers have
+the technological ability to distinguish between and
+discriminate against certain types of Internet traffic. See Open
+Internet Order, 25 F.C.C.R. at 17923 ¶ 31 (broadband
+providers possess "increasingly sophisticated network
+management tools" that enable them to "make fine-grained
+distinction in their handling of network traffic"). The
+Commission also convincingly detailed how broadband
+providers' position in the market gives them the economic
+power to restrict edge-provider traffic and charge for the
+services they furnish edge providers. Because all end users
+generally access the Internet through a single broadband
+provider, that provider functions as a "`terminating
+monopolist,'" id. at 17919 ¶ 24 n.66, with power to act as a
+"gatekeeper" with respect to edge providers that might seek to
+reach its end-user subscribers, id. at 17919 ¶ 24. As the
+Commission reasonably explained, this ability to act as a
+"gatekeeper" distinguishes broadband providers from other
+                                    39
+
+participants in the Internet marketplace--including prominent
+and potentially powerful edge providers such as Google and
+Apple--who have no similar "control [over] access to the
+Internet for their subscribers and for anyone wishing to reach
+those subscribers." Id. at 17935 ¶ 50.
+
+     To be sure, if end users could immediately respond to any
+given broadband provider's attempt to impose restrictions on
+edge providers by switching broadband providers, this
+gatekeeper power might well disappear. Cf. Open Internet
+Order, 25 F.C.C.R. at 17935 ¶ 51 (declining to impose similar
+rules on "dial-up Internet access service because telephone
+service has historically provided the easy ability to switch
+among competing dial-up Internet access services"). For
+example, a broadband provider like Comcast would be unable
+to threaten Netflix that it would slow Netflix traffic if all
+Comcast subscribers would then immediately switch to a
+competing broadband provider. But we see no basis for
+questioning the Commission's conclusion that end users are
+unlikely to react in this fashion. According to the Commission,
+"end users may not know whether charges or service levels
+their broadband provider is imposing on edge providers vary
+from those of alternative broadband providers, and even if they
+do have this information may find it costly to switch." Id. at
+17921 ¶ 27. As described by numerous commenters, and
+detailed more thoroughly in a Commission report compiling
+the results of an extensive consumer survey, the costs of
+switching include: "early termination fees; the inconvenience
+of ordering, installation, and set-up, and associated deposits or
+fees; possible difficulty returning the earlier broadband
+provider's equipment and the cost of replacing incompatible
+customer-owned equipment; the risk of temporarily losing
+service; the risk of problems learning how to use the new
+service; and the possible loss of a provider-specific email
+address or website." Open Internet Order, 25 F.C.C.R. at
+     40
+
+17924­25 ¶ 34 (footnotes omitted) (citing, inter alia, Federal
+
+Communications Commission, Broadband Decisions: What
+
+Drives Consumers to Switch--Or Stick With--Their
+
+Broadband Internet Provider (FCC Working Paper, Dec.
+
+2010), available at hraunfoss.fcc.gov/edocs_public/
+
+attachmatch/DOC-303264A1.pdf).  Moreover,  the
+
+Commission emphasized, many end users may have no option
+
+to switch, or at least face very limited options: "[a]s of
+
+December 2009, nearly 70 percent of households lived in
+
+census tracts where only one or two wireline or fixed wireless
+
+firms provided" broadband service. Id. at 17923 ¶ 32. As the
+
+Commission concluded, any market power that such
+
+broadband providers might have with respect to end users
+
+would only increase their power with respect to edge providers.
+
+Id.
+
+     The dissent focuses on this latter aspect of the
+Commission's reasoning, arguing at some length that the
+Commission's failure to expressly find that broadband
+providers have market power with respect to end users is "fatal
+to its attempt to regulate." Dissenting Op. at 12. But Verizon
+has never argued that the Commission's failure to make a
+market power finding somehow rendered its understanding of
+its statutory authority unreasonable or its decision arbitrary and
+capricious. Verizon does fleetingly mention the market power
+issue once in its opening brief, asserting as part of its First
+Amendment claim that Turner Broadcasting System, Inc. v.
+FCC, 520 U.S. 180 (1997)--in which the Supreme Court,
+applying intermediate scrutiny, upheld a congressional statute
+compelling cable companies to carry local broadcast television
+stations, id. at 185--is distinguishable in part because, unlike
+the Commission here, Congress had found "evidence of
+`considerable and growing market power.'" Verizon Br. 46
+(quoting Turner, 520 U.S. at 197). But to say, as Verizon does,
+that an allegedly speech-infringing regulation violates the First
+                                    41
+
+Amendment because of the absence of a market condition that
+would increase the need for that regulation is hardly to say that
+the absence of this market condition renders the regulation
+wholly irrational. Verizon's bare citation to a Justice
+Department submission--relied upon by the dissent, see
+Dissenting Op. at 11, 14­15--is even less on point, as that
+submission simply advised the Commission to take care to
+avoid stifling incentives for broadband investment; it never
+asserted, as the dissent does, that such market power is required
+for broadband providers to have the economic clout to restrict
+edge-provider traffic in the first place. See Department of
+Justice Comments at 28, Docket No. 09-51 (Jan. 14, 2010).
+Indeed, when pressed at oral argument to embrace our
+dissenting colleague's position, Verizon's counsel failed to do
+so, stating only that it was "possible" that if the Commission
+had made a market power finding, the Order could be justified.
+Oral Arg. Tr. 10. As we "do not sit as [a] self-directed board[]
+of legal inquiry and research," and Verizon "has made no
+attempt to address the issue," the argument is clearly forfeited.
+Carducci v. Regan, 714 F.2d 171, 177 (D.C. Cir. 1983).
+
+     In any event, it seems likely that the reason Verizon never
+advanced this argument is that the Commission's failure to find
+market power is not "fatal" to its theory. Broadband providers'
+ability to impose restrictions on edge providers does not
+depend on their benefiting from the sort of market
+concentration that would enable them to impose substantial
+price increases on end users--which is all the Commission said
+in declining to make a market power finding. See Open
+Internet Order, 25 F.C.C.R. at 17923 ¶ 32 & n.87; see also
+Department of Justice & Federal Trade Commission,
+Horizontal Merger Guidelines § 4.1 (2010) (defining product
+markets and market power in terms of a firm's ability to raise
+prices for consumers). Rather, broadband providers' ability to
+impose restrictions on edge providers simply depends on end
+                                    42
+
+users not being fully responsive to the imposition of such
+restrictions. See supra at 39. If the dissent believes that
+broadband providers' ability to restrict edge-provider traffic
+without having their end users react would itself represent an
+exercise of market power, then the dissent's dispute with the
+Commission's reasoning appears to be largely semantic: the
+Commission expressly found that end users are not responsive
+in this fashion even if it never used the term "market power" in
+doing so. See Open Internet Order, 25 F.C.C.R. at 17924­25
+¶ 34.
+
+     Furthermore, the Commission established that the threat
+that broadband providers would utilize their gatekeeper ability
+to restrict edge-provider traffic is not, as the Commission put it,
+"merely theoretical." Open Internet Order, 25 F.C.C.R. at
+17925 ¶ 35. In support of its conclusion that broadband
+providers could and would act to limit Internet openness, the
+Commission pointed to four prior instances in which they had
+done just that. These involved a mobile broadband provider
+blocking online payment services after entering into a contract
+with a competing service; a mobile broadband provider
+restricting the availability of competing VoIP and streaming
+video services; a fixed broadband provider blocking VoIP
+applications; and, of course, Comcast's impairment of
+peer-to-peer file sharing that was the subject of the Comcast
+Order. See id. Although some of these incidents may not have
+involved "adjudicated findings of misconduct," as Verizon
+asserts, Verizon's Br. 50, that hardly means that no record
+evidence supports the Commission's conclusion that the
+incidents had in fact occurred. Likewise, the fact that we
+vacated the Comcast Order--rendering it, according to
+Verizon, a "legal nullity," Verizon's Br. 51--did not require
+the Commission to entirely disregard the underlying conduct
+that produced that order. In Comcast, we held that the
+Commission had failed to cite any statutory authority that
+                                    43
+
+justified its order, not that Comcast had never impaired Internet
+traffic. See Comcast, 600 F.3d at 644. Nor, finally, did the
+Commission's invocation of these examples demonstrate that
+it was attempting to "impose an `industry-wide solution for a
+problem that exists only in isolated pockets.'" Verizon's Br. 51
+(quoting Associated Gas Distributors v. FERC, 824 F.2d 981,
+1019 (D.C. Cir. 1987)). Rather, as the Commission explained,
+these incidents--which occurred "notwithstanding the
+Commission's adoption of open Internet principles,"
+Commission enforcement proceedings against those who
+violated those principles, and specific Commission orders
+"requir[ing] certain broadband providers to adhere to open
+Internet obligations," Open Internet Order, 25 F.C.C.R. at
+17926­27 ¶ 37--buttressed the agency's conclusion that
+broadband providers' incentives and ability to restrict Internet
+traffic could produce "[w]idespread interference with the
+Internet's openness" in the absence of Commission action, id.
+at 17927 ¶ 38. Such a "problem" is doubtless "industry-wide."
+Associated Gas Distributors, 824 F.2d at 1019.
+
+     Finally, Verizon argues that the Open Internet Order rules
+will necessarily have the opposite of their intended effect
+because they will "harm innovation and deter investment by
+increasing costs, foreclosing potential revenue streams, and
+restricting providers' ability to meet consumers' evolving
+needs." Verizon's Br. 52; see also Dissenting Op. at 14­16. In
+essence, Verizon believes that any stimulus to edge-provider
+innovation, as well as any consequent demand for broadband
+infrastructure, produced by the Open Internet Order will be
+outweighed by the diminished incentives for broadband
+infrastructure investment caused by the new limitations on
+business models broadband providers may employ to reap a
+return on their investment. As Verizon points out, two
+members of the Commission agreed that the rules would be
+counterproductive, and several commenters contended that
+                                    44
+
+certain regulations of broadband providers would run the risk
+of stifling infrastructure investment. See Open Internet Order,
+25 F.C.C.R. at 18054­56 (Dissenting Statement of
+Commissioner McDowell); id. at 18088­91 (Dissenting
+Statement of Commissioner Baker); Verizon Comments at 40­
+86, Docket No. 09-191 (Jan. 14, 2010); MetroPCS Comments
+at 24­35, Docket No. 09-191 (Jan 14, 2010); see also Open
+Internet Order, 25 F.C.C.R. at 17931 ¶ 42 n.143 (discussing
+the comments of the Department of Justice and Federal Trade
+Commission).
+
+     The record, however, also contains much evidence
+supporting the Commission's conclusion that, "[b]y
+comparison to the benefits of [its] prophylactic measures, the
+costs associated with the open Internet rules . . . are likely
+small." Open Internet Order, 25 F.C.C.R. at 17928 ¶ 39. This
+is, in other words, one of those cases--quite frequent in this
+circuit--where "the available data do[] not settle a regulatory
+issue and the agency must then exercise its judgment in moving
+from the facts and probabilities on the record to a policy
+conclusion." State Farm, 463 U.S. at 52. Here the Commission
+reached its "policy conclusion" by emphasizing, among other
+things, (1) the absence of evidence that similar restrictions of
+broadband providers had discouraged infrastructure
+investment, and (2) the strength of the effect on broadband
+investment that it anticipated from edge-provider innovation,
+which would benefit both from the preservation of the
+"virtuous circle of innovation" created by the Internet's
+openness and the increased certainty in that openness
+engendered by the Commission's rules. Open Internet Order,
+at 17928­31 ¶¶ 40­42. In so doing, the Commission has
+offered "a rational connection between the facts found and the
+choice made," State Farm, 463 U.S. at 52 (internal quotation
+marks omitted), and Verizon has given us no persuasive reason
+to question that judgment.
+                                    45
+
+                                   III.
+
+     Even though section 706 grants the Commission authority
+to promote broadband deployment by regulating how
+broadband providers treat edge providers, the Commission
+may not, as it recognizes, utilize that power in a manner that
+contravenes any specific prohibition contained in the
+Communications Act. See Open Internet Order, 25 F.C.C.R. at
+17969 ¶ 119 (reiterating the Commission's disavowal of "a
+reading of Section 706(a) that would allow the agency to trump
+specific mandates of the Communications Act"); see also D.
+Ginsberg & Sons, Inc. v. Popkin, 285 U.S. 204, 208 (1932)
+("General language of a statutory provision, although broad
+enough to include it, will not be held to apply to a matter
+specifically dealt with in another part of the same enactment.").
+According to Verizon, the Commission has done just that
+because the anti-discrimination and anti-blocking rules
+"subject[] broadband Internet access service . . . to common
+carriage regulation, a result expressly prohibited by the Act."
+Verizon's Br. 14.
+
+      We think it obvious that the Commission would violate
+the Communications Act were it to regulate broadband
+providers as common carriers. Given the Commission's
+still-binding decision to classify broadband providers not as
+providers of "telecommunications services" but instead as
+providers of "information services," see supra at 9­10, such
+treatment would run afoul of section 153(51): "A
+telecommunications carrier shall be treated as a common
+carrier under this [Act] only to the extent that it is engaged in
+providing telecommunications services." 47 U.S.C. § 153(51);
+see also Wireless Broadband Order, 22 F.C.C.R. at 5919 ¶ 50
+(concluding that a "service provider is to be treated as a
+common carrier for the telecommunications services it
+provides, but it cannot be treated as a common carrier with
+                                    46
+
+respect to other, non-telecommunications services it may offer,
+including information services"). Likewise, because the
+Commission has classified mobile broadband service as a
+"private" mobile service, and not a "commercial" mobile
+service, see Wireless Broadband Order, 22 F.C.C.R. at 5921
+¶ 56, treatment of mobile broadband providers as common
+carriers would violate section 332: "A person engaged in the
+provision of a service that is a private mobile service shall not,
+insofar as such person is so engaged, be treated as a common
+carrier for any purpose under this [Act]." 47 U.S.C.
+§ 332(c)(2); see Cellco, 700 F.3d at 538 ("[M]obile-data
+providers are statutorily immune, perhaps twice over, from
+treatment as common carriers.").
+
+     Insisting it has transgressed neither of these prohibitions,
+the Commission begins with the rather half-hearted argument
+that the Act referred to in sections 153(51) and 332 is the
+Communications Act of 1934, and that when the Commission
+utilizes the authority granted to it in section 706--enacted as
+part of the 1996 Telecommunications Act--it is not acting
+"under" the 1934 Act, and thus is "not subject to the statutory
+limitations on common-carrier treatment." Commission's Br.
+68. But section 153(51) was also part of the 1996
+Telecommunications Act. And regardless, "Congress
+expressly directed that the 1996 Act . . . be inserted into the
+Communications Act of 1934." AT & T Corp., 525 U.S. at 377
+(citing Telecommunications Act of 1996 § 1(b)). The
+Commission cannot now so easily escape the statutory
+prohibitions on common carrier treatment.
+
+     Thus, we must determine whether the requirements
+imposed by the Open Internet Order subject broadband
+providers to common carrier treatment. If they do, then given
+the manner in which the Commission has chosen to classify
+broadband providers, the regulations cannot stand. We apply
+                                    47
+
+Chevron's deferential standard of review to the interpretation
+and application of the statutory term "common carrier." See
+Cellco, 700 F.3d at 544. After first discussing the history and
+use of that term, we turn to the issue of whether the
+Commission's interpretation of "common carrier"--and its
+conclusion that the Open Internet Order's rules do not
+constitute common carrier obligations--was reasonable.
+
+                                    A.
+
+     Offering little guidance as to the meaning of the term
+"common carrier," the Communications Act defines that
+phrase, somewhat circularly, as "any person engaged as a
+common carrier for hire." 47 U.S.C. § 153(11). Courts and the
+Commission have therefore resorted to the common law to
+come up with a satisfactory definition. See FCC v. Midwest
+Video Corp., 440 U.S. 689, 701 n.10 (1979) ("Midwest Video
+II").
+
+     In the Nineteenth Century, American courts began
+imposing certain obligations--conceptually derived from the
+traditional legal duties of innkeepers, ferrymen, and others who
+served the public--on companies in the transportation and
+communications industries. See Cellco, 700 F.3d at 545. As the
+Supreme Court explained in Interstate Commerce Commission
+v. Baltimore & Ohio Railroad Co., 145 U.S. 263, 275 (1892),
+"the principles of the common law applicable to common
+carriers . . . demanded little more than that they should carry for
+all persons who applied, in the order in which the goods were
+delivered at the particular station, and that their charges for
+transportation should be reasonable." Congress subsequently
+codified these duties, first in the 1887 Interstate Commerce
+Act, ch. 104, 24 Stat. 379, then the Manns-Elkins Act of 1910,
+ch. 309, 36 Stat. 539, and, most relevant here, the
+Communications Act of 1934, ch. 652, 48 Stat. 1064. See
+Cellco, 700 F.3d at 545­46.
+                                    48
+
+     Although the nature and scope of the duties imposed on
+common carriers have evolved over the last century, see, e.g.,
+Orloff v. FCC, 352 F.3d 415, 418­21 (D.C. Cir. 2003)
+(discussing the implications of the relaxation of the tariff-filing
+requirement), the core of the common law concept of common
+carriage has remained intact. In National Association of
+Regulatory Utility Commissioners v. FCC, 525 F.2d 630, 642
+(D.C. Cir. 1976) ("NARUC I"), we identified the basic
+characteristic that distinguishes common carriers from
+"private" carriers--i.e., entities that are not common
+carriers--as "[t]he common law requirement of holding
+oneself out to serve the public indiscriminately." "[A] carrier
+will not be a common carrier," we further explained, "where its
+practice is to make individualized decisions, in particular
+cases, whether and on what terms to deal." Id. at 641.
+Similarly, in National Association of Regulatory Utility
+Commissioners v. FCC, 533 F.2d 601, 608 (1976) ("NARUC
+II"), we concluded that "the primary sine qua non of common
+carrier status is a quasi-public character, which arises out of the
+undertaking to carry for all people indifferently." (Internal
+quotation marks omitted).
+
+     For our purposes, perhaps the seminal case applying this
+notion of common carriage is Midwest Video II. At issue in
+Midwest Video II was a set of regulations compelling cable
+television systems to operate a minimum number of channels
+and to hold certain channels open for specific users. 440 U.S. at
+692­93. Cable operators were barred from exercising any
+discretion over who could use those latter channels and what
+those users could transmit. They were also forbidden from
+charging users any fee for some of the channels and limited to
+charging an "appropriate" fee for the remaining channels. Id. at
+693­94. Because at that time the Commission had no express
+statutory authority over cable systems, it sought to justify these
+                                    49
+
+rules as ancillary to its authority to regulate broadcasting. Id. at
+696­99.
+
+     Rejecting this argument, the Supreme Court held that the
+Commission had no power to regulate cable operators in this
+fashion. The Court reasoned that if the Commission sought to
+exercise such ancillary jurisdiction over cable operators on the
+basis of its authority over broadcasters, it must also respect the
+specific statutory limits of that authority, as "without reference
+to the provisions of the Act directly governing broadcasting,
+the Commission's jurisdiction . . . would be unbounded."
+Midwest Video II, 440 U.S. at 706. Congress had expressly
+prohibited the Commission from regulating broadcasters as
+common carriers, a limitation that must then, according to the
+Court, also extend to cable operators. Id. at 707. And the
+challenged regulations, the Court held, "plainly impose
+common-carrier obligations on cable operators." Id. at 701. In
+explaining this conclusion, the Court largely reiterated the
+nature of the obligations themselves: "Under the rules, cable
+systems are required to hold out dedicated channels on a
+first-come, nondiscriminatory basis. Operators are prohibited
+from determining or influencing the content of access
+programming. And the rules delimit what operators may
+charge for access and use of equipment." Id. at 701­02
+(internal citations omitted).
+
+     In Cellco, we recently confronted the similar question of
+whether a Commission regulation compelling mobile
+telephone companies to offer data roaming agreements to one
+another on "commercially reasonable" terms impermissibly
+regulated these providers as common carriers. 700 F.3d at 537.
+From the history and decisions surveyed above, we distilled
+"several basic principles" that guide our analysis here. Id. at
+547. First, "[i]f a carrier is forced to offer service
+indiscriminately and on general terms, then that carrier is being
+                                    50
+
+relegated to common carrier status." Id. We also clarified,
+however, that "there is an important distinction between the
+question whether a given regulatory regime is consistent with
+common carrier or private carrier status, and the Midwest
+Video II question whether that regime necessarily confers
+common carrier status." Id. (internal citations omitted). Thus,
+"common carriage is not all or nothing--there is a gray area in
+which although a given regulation might be applied to common
+carriers, the obligations imposed are not common carriage per
+se." Id. In this "space between per se common carriage and per
+se private carriage," we continued, "the Commission's
+determination that a regulation does or does not confer
+common carrier status warrants deference." Id.
+
+     Given these principles, we concluded that the data
+roaming rule imposed no per se common carriage requirements
+because it left "substantial room for individualized bargaining
+and discrimination in terms." Cellco, 700 F.3d at 548. The rule
+"expressly permit[ted] providers to adapt roaming agreements
+to `individualized circumstances without having to hold
+themselves out to serve all comers indiscriminately on the
+same or standardized terms.'" Id. That said, we cautioned that
+were the Commission to apply the "commercially reasonable"
+standard in a restrictive manner, essentially elevating it to the
+traditional common carrier "just and reasonable" standard, see
+47 U.S.C. § 201(b), the rule might impose obligations that
+amounted to common carriage per se, a claim that could be
+brought in an "as applied" challenge. Cellco, 700 F.3d at 548­
+49.
+
+                                    B.
+
+     The Commission's explanation in the Open Internet
+Order for why the regulations do not constitute common
+carrier obligations and its defense of those regulations here
+largely rest on its belief that, with respect to edge providers,
+                                    51
+
+broadband providers are not "carriers" at all. Stating that an
+entity is not a common carrier if it may decide on an
+individualized basis "`whether and on what terms to deal' with
+potential customers," the Commission asserted in the Order
+that "[t]he customers at issue here are the end users who
+subscribe to broadband Internet access services." Open
+Internet Order, 25 F.C.C.R. at 17950­51 ¶ 79 (quoting
+NARUC I, 525 F.2d at 641) (emphasis added). It explained that
+because broadband providers would remain able to make
+"individualized decisions" in determining on what terms to
+deal with end users, the Order permitted the providers the
+"flexibility to customize service arrangements for a particular
+customer [that] is the hallmark of private carriage." Id. at
+17951 ¶ 79. Here, the Commission reiterates that "as long as [a
+broadband provider] is not required to serve end users
+indiscriminately, rules regarding blocking or charging edge
+providers do not create common carriage." Commission's
+Br. 61. We disagree.
+
+     It is true, generally speaking, that the "customers" of
+broadband providers are end users. But that hardly means that
+broadband providers could not also be carriers with respect to
+edge providers. "Since it is clearly possible for a given entity to
+carry on many types of activities, it is at least logical to
+conclude that one may be a common carrier with regard to
+some activities but not others." NARUC II, 533 F.2d at 608.
+Because broadband providers furnish a service to edge
+providers, thus undoubtedly functioning as edge providers'
+"carriers," the obligations that the Commission imposes on
+broadband providers may well constitute common carriage per
+se regardless of whether edge providers are broadband
+providers' principal customers. This is true whatever the nature
+of the preexisting commercial relationship between broadband
+providers and edge providers. In contending otherwise, the
+Commission appears to misunderstand the nature of the inquiry
+                                    52
+
+in which we must engage. The question is not whether, absent
+the Open Internet Order, broadband providers would or did act
+as common carriers with respect to edge providers; rather, the
+question is whether, given the rules imposed by the Open
+Internet Order, broadband providers are now obligated to act
+as common carriers. See Midwest Video II, 440 U.S. at 701­02.
+
+     In support of its understanding of common carriage, the
+Commission first invokes section 201(a), which provides that
+it is the "duty of every common carrier . . . to furnish . . .
+communication service upon reasonable request therefor." 47
+U.S.C. § 201(a). No one disputes that a broadband provider's
+transmission of edge-provider traffic to its end-user
+subscribers represents a valuable service: an edge provider like
+Amazon wants and needs a broadband provider like Comcast
+to permit its subscribers to use Amazon.com. According to the
+Commission, however, because edge providers generally do
+not "request" service from broadband providers, and may have
+no direct relationship with end users' local access providers,
+broadband providers cannot be common carriers with respect
+to such edge providers. But section 201(a) describes a "duty"
+of a common carrier, not a prerequisite for qualifying as a
+common carrier in the first place. More important, the Open
+Internet Order imposes this very duty on broadband providers:
+given the Open Internet Order's anti-blocking and
+anti-discrimination requirements, if Amazon were now to
+make a request for service, Comcast must comply. That is,
+Comcast must now "furnish . . . communication service upon
+reasonable request therefor." 47 U.S.C. § 201(a).
+
+     Similarly flawed is the Commission's argument that
+because the Communications Act defines a "common carrier"
+as a "common carrier for hire," 47 U.S.C. § 153(11) (emphasis
+added), a common carrier relationship may exist only with
+respect to those customers who purchase service from the
+                                    53
+
+carrier. As Verizon aptly puts it in response, the fact that
+"broadband providers . . . generally have not charged edge
+providers for access or offered them differentiated services . . .
+has no legal significance because the avowed purpose of the
+rules is to deny providers the discretion to do so now and in the
+future." Verizon's Reply Br. 5 n.3. In other words, but for the
+Open Internet Order, broadband providers could freely impose
+conditions on the nature and quality of the service they furnish
+edge providers, potentially turning certain edge
+providers--currently able to "hire" their service for free--into
+paying customers. The Commission may not claim that the
+Open Internet Order imposes no common carrier obligations
+simply because it compels an entity to continue furnishing
+service at no cost.
+
+     Likewise, the Commission misses the point when it
+contends that because the Communications Act "imposes
+non-discrimination requirements on many entities that are not
+common carriers," the Order's requirements cannot
+"transform[] providers into common carriers." Commission's
+Br. 66­67. In support, the Commission cites 47 U.S.C.
+§ 315(b), which requires that broadcasters charge political
+candidates nondiscriminatory rates if broadcasters permit them
+to use their stations, as well as 47 U.S.C. § 548(c)(2)(B), which
+prohibits satellite programming vendors owned in part or in
+whole by a cable operator from discriminating against other
+cable operators in the delivery of programming. Commission's
+Br. 66­67. But Congress has no statutory obligation to avoid
+imposing common carrier obligations on those who might not
+otherwise operate as common carriers, and thus the extent to
+which the cited provisions might regulate those entities as such
+is irrelevant. The Commission, on the other hand, has such an
+obligation with respect to entities it has classified as statutorily
+exempt from common carrier treatment, and the issue here is
+whether it has nonetheless "relegated [those entities], pro
+                                    54
+
+tanto, to common-carrier status." Midwest Video II, 440 U.S. at
+700­01.
+
+     In these respects, Midwest Video II is indistinguishable.
+The Midwest Video II cable operators' primary "customers"
+were their subscribers, who paid to have programming
+delivered to them in their homes. There, as here, the
+Commission's regulations required the regulated entities to
+carry the content of third parties to these customers--content
+the entities otherwise could have blocked at their discretion.
+Moreover, much like the rules at issue here, the Midwest Video
+II regulations compelled the operators to hold open certain
+channels for use at no cost--thus permitting specified
+programmers to "hire" the cable operators' services for free.
+Given that the cable operators in Midwest Video II were
+carriers with respect to these third-party programmers, we see
+no basis for concluding that broadband providers are not
+similarly carriers with respect to third-party edge providers.
+
+     The Commission advances several grounds for
+distinguishing Midwest Video II. None is convincing.
+
+     The Commission asserts that, unlike in Midwest Video II,
+here the content is delivered to end users only when an end user
+requests it--i.e., by clicking on a link to an edge provider's
+website. But the same was essentially true in Midwest Video II:
+cable companies' customers would not actually receive the
+content on the dedicated public access channels unless they
+chose to watch those channels. The access requested by the
+programmers in Midwest Video II, like the access requested by
+edge providers here, is the ability to have their communications
+transmitted to end-user subscribers if those subscribers so
+desire.
+                                    55
+
+     Nor, contrary to the Commission's contention, is it at all
+relevant that in Midwest Video II only a limited number of
+cable channels were available, while in this case the number of
+edge providers a broadband provider could serve is unlimited.
+Whether an entity qualifies as a carrier does not turn on how
+much content it is able to carry or the extent to which other
+content might be crowded out. A short train is no more a carrier
+than a long train, or even a train long enough to serve every
+possible customer.
+
+     Finally, Midwest Video II cannot be distinguished on the
+basis that the Court there emphasized the degree to which the
+Commission's rules impinged on cable operators' "editorial
+discretion," and "transferred control" over the content
+transmitted. Commission's Br. 65. The Court made two related
+points regarding editorial discretion, neither of which helps the
+Commission. First, it observed that the need to protect editorial
+discretion was one reason Congress forbade common carrier
+treatment of broadcasters in the first place, a rationale that also
+applied to cable operators, thus confirming the Court's
+decision to extend that statutory prohibition to the
+Commission's attempt to exercise its ancillary jurisdiction
+over such entities. Midwest Video II, 440 U.S. at 700, 706­08.
+Here, whatever might be the justifications for prohibiting
+common carrier treatment of "information service" providers
+and "commercial" mobile service providers, such treatment is
+undoubtedly prohibited. See 47 U.S.C. §§ 153(51), 332(c)(2).
+Second, the Court emphasized that, unlike the regulations
+approved in United States v. Midwest Video Corp., 406 U.S.
+649 (1972) ("Midwest Video I")--which required certain cable
+companies to create their own programming and maintain
+facilities for local production, id. at 653­55--the regulations in
+Midwest Video II "transferred control of the content of access
+cable channels from cable operators to members of the public."
+Midwest Video II, 440 U.S. at 700. The Court's point was
+                                    56
+
+simply that the Midwest Video I regulations had created no
+common carrier obligations because they had imposed no
+obligation on cable operators to provide carriage to any third
+party. By giving third parties "control" over the transmissions
+that cable operators carried, however, the Midwest Video II
+regulations did. The regulations here accomplish the very same
+sort of transfer of control: whereas previously broadband
+providers could have blocked or discriminated against the
+content of certain edge providers, they must now carry the
+content those edge providers desire to transmit. The only
+remaining question, then, is whether the Open Internet Order's
+rules have so limited broadband providers' control over edge
+providers' transmissions that the regulations constitute
+common carriage per se. It is to that question that we now turn.
+
+                                    C.
+
+     We have little hesitation in concluding that the
+anti-discrimination obligation imposed on fixed broadband
+providers has "relegated [those providers], pro tanto, to
+common carrier status." Midwest Video II, 440 U.S. at 700­01.
+In requiring broadband providers to serve all edge providers
+without "unreasonable discrimination," this rule by its very
+terms compels those providers to hold themselves out "to serve
+the public indiscriminately." NARUC I, 525 F.2d at 642.
+
+     Having relied almost entirely on the flawed argument that
+broadband providers are not carriers with respect to edge
+providers, the Commission offers little response on this point.
+In its briefs, the Commission contends only that if the Open
+Internet Order imposes common carriage requirements, so too
+would the regulations at issue in United States v. Southwestern
+Cable Co., 392 U.S. 157 (1968), which the Supreme Court
+declined to strike down. Southwestern Cable involved a
+Commission rule that, among other things, compelled cable
+operators to transmit the signals of local broadcasters when
+                                    57
+
+cable operators imported the competing signals of other
+broadcasters into the local service area. Id. at 161. Such a rule
+is plainly distinguishable from the Open Internet Order's
+anti-discrimination rule because the Southwestern Cable
+regulation imposed no obligation on cable operators to hold
+their facilities open to the public generally, but only to certain
+specific broadcasters if and when the cable operators acted in
+ways that might harm those broadcasters. As the Court later
+explained in Midwest Video II, the Southwestern Cable rule
+"was limited to remedying a specific perceived evil," and "did
+not amount to a duty to hold out facilities indifferently for
+public use." 440 U.S. at 706 n.16. The Open Internet Order's
+anti-discrimination provision is not so limited, as the
+compelled carriage obligation applies in all circumstances and
+with respect to all edge providers.
+
+     Significantly for our purposes, the Commission never
+argues that the Open Internet Order's "no unreasonable
+discrimination" standard somehow differs from the
+nondiscrimination standard applied to common carriers
+generally--the argument that salvaged the data roaming
+requirements in Cellco. In a footnote in the Order itself, the
+Commission suggested that it viewed the rule's allowance for
+"reasonable network management" as establishing treatment
+that was somehow inconsistent with per se common carriage.
+See Open Internet Order, 25 F.C.C.R. at 17951 ¶ 79 n.251. But
+the Commission has forfeited this argument by failing to raise
+it in its briefs here. See Comcast, 600 F.3d at 660; Roth v. U.S.
+DOJ, 642 F.3d 1161, 1181 (D.C. Cir. 2011).
+
+     In any event, the argument is without merit. The Order
+defines the "reasonable network management" concept as
+follows: "A network management practice is reasonable if it is
+appropriate and tailored to achieving a legitimate network
+management purpose, taking into account the particular
+                                    58
+
+network architecture and technology of the broadband Internet
+access service." Open Internet Order, 25 F.C.C.R. at 17952
+¶ 82. This provision, the Commission explained, would permit
+broadband providers to do two things, neither of which conflict
+with per se common carriage. First, "the reasonable network
+management" exception would permit broadband providers to
+"address[] traffic that is unwanted by end users . . . such as by
+providing services or capabilities consistent with an end user's
+choices regarding parental controls or security capabilities."
+Id. Because the relevant service broadband providers furnish to
+edge providers is the ability to access end users if those end
+users so desire, a limited exception permitting end users to
+direct broadband providers to block certain traffic by no means
+detracts from the common carrier nature of the obligations
+imposed on broadband providers. Second, the Order defines
+"reasonable network management" to include practices
+designed to protect the network itself by "addressing traffic
+that is harmful to the network" and "reducing or mitigating the
+effects of congestion." Id. at 17952 ¶ 82. As Verizon correctly
+points out, however, this allowance "merely preserves a
+common carrier's traditional right to `turn[] away [business]
+either because it is not of the type normally accepted or
+because the carrier's capacity has been exhausted.'" Verizon's
+Br. 20 (quoting NARUC I, 525 F.2d at 641). Railroads have no
+obligation to allow passengers to carry bombs on board, nor
+need they permit passengers to stand in the aisles if all seats are
+taken. It is for this reason that the Communications Act bars
+common carriers from engaging in "unjust or unreasonable
+discrimination," not all discrimination. 47 U.S.C. § 202
+(emphasis added).
+
+     The Commission has provided no basis for concluding
+that in permitting "reasonable" network management, and in
+prohibiting merely "unreasonable" discrimination, the Order's
+standard of "reasonableness" might be more permissive than
+                                    59
+
+the quintessential common carrier standard. See Cellco, 700
+F.3d at 548 (characterizing the "just and reasonable" standard
+as being that "applicable to common carriers"). To the extent
+any ambiguity exists regarding how the Commission will apply
+these rules in practice, we think it is best characterized as
+ambiguity as to how the common carrier reasonableness
+standard applies in this context, not whether the standard
+applied is actually the same as the common carrier standard.
+Unlike the data roaming requirement at issue in Cellco, which
+set forth a "commercially reasonable" standard, see id. at 537,
+the language of the Open Internet Order's anti-discrimination
+rule mirrors, almost precisely, section 202's language
+establishing the basic common carrier obligation not to "make
+any unjust or unreasonable discrimination." 47 U.S.C. § 202.
+Indeed, confirming that the two standards are equivalent, the
+Commission responded to commenters who argued that the
+"no unreasonable discrimination" requirement was too vague
+by quoting another commenter who observed that
+"[s]eventy-five years of experience have shown [the
+`unreasonable' qualifier in Section 202] to be both
+administrable and indispensable to the sound administration of
+the nation's telecommunications laws." Open Internet Order,
+25 F.C.C.R. at 17949 ¶ 77 n.240. Moreover, unlike the data
+roaming rule in Cellco--which spelled out "sixteen different
+factors plus a catchall . . . that the Commission must take into
+account in evaluating whether a proffered roaming agreement
+is commercially reasonable," thus building into the standard
+"considerable flexibility," Cellco, 700 F.3d at 548--the Open
+Internet Order makes no attempt to ensure that its
+reasonableness standard remains flexible. Instead, with respect
+to broadband providers' potential negotiations with edge
+providers, the Order ominously declares: "it is unlikely that
+pay for priority would satisfy the `no unreasonable
+discrimination' standard." Open Internet Order, 25 F.C.C.R. at
+17947 ¶ 76. If the Commission will likely bar broadband
+                                    60
+
+providers from charging edge providers for using their service,
+thus forcing them to sell this service to all who ask at a price of
+$0, we see no room at all for "individualized bargaining."
+Cellco, 700 F.3d at 548.
+
+     Whether the Open Internet Order's anti-blocking rules,
+applicable to both fixed and mobile broadband providers,
+likewise establish per se common carrier obligations is
+somewhat less clear. According to Verizon, they do because
+they deny "broadband providers discretion in deciding which
+traffic from . . . edge providers to carry," and deny them
+"discretion over carriage terms by setting a uniform price of
+zero." Verizon's Br. 16­17. This argument has some appeal.
+The anti-blocking rules establish a minimum level of service
+that broadband providers must furnish to all edge providers:
+edge providers' "content, applications [and] services" must be
+"effectively []usable." Open Internet Order, 25 F.C.C.R. at
+17943 ¶ 66. The Order also expressly prohibits broadband
+providers from charging edge providers any fees for this
+minimum level of service. Id. at 17943­44 ¶ 67. In requiring
+that all edge providers receive this minimum level of access for
+free, these rules would appear on their face to impose per se
+common carrier obligations with respect to that minimum level
+of service. See Midwest Video II, 440 U.S. at 701 n.9 (a carrier
+may "operate as a common carrier with respect to a portion of
+its service only").
+
+     At oral argument, however, Commission counsel asserted
+that "[i]t's not common carriage to simply have a basic level of
+required service if you can negotiate different levels with
+different people." Oral Arg. Tr. 86. This contention rests on the
+fact that under the anti-blocking rules broadband providers
+have no obligation to actually provide any edge provider with
+the minimum service necessary to satisfy the rules. If, for
+example, all edge providers' "content, applications [and]
+                                    61
+
+services" are "effectively usable," Open Internet Order, 25
+F.C.C.R. at 17943 ¶ 66, at download speeds of, say, three
+mbps, a broadband provider like Verizon could deliver all edge
+providers' traffic at speeds of at least four mbps. Viewed this
+way, the relevant "carriage" broadband providers furnish
+might be access to end users more generally, not the minimum
+required service. In delivering this service, so defined, the
+anti-blocking rules would permit broadband providers to
+distinguish somewhat among edge providers, just as
+Commission counsel contended at oral argument. For example,
+Verizon might, consistent with the anti-blocking rule--and
+again, absent the anti-discrimination rule--charge an edge
+provider like Netflix for high-speed, priority access while
+limiting all other edge providers to a more standard service. In
+theory, moreover, not only could Verizon negotiate separate
+agreements with each individual edge provider regarding the
+level of service provided, but it could also charge
+similarly-situated edge providers completely different prices
+for the same service. Thus, if the relevant service that
+broadband providers furnish is access to their subscribers
+generally, as opposed to access to their subscribers at the
+specific minimum speed necessary to satisfy the anti-blocking
+rules, then these rules, while perhaps establishing a lower limit
+on the forms that broadband providers' arrangements with
+edge providers could take, might nonetheless leave sufficient
+"room for individualized bargaining and discrimination in
+terms" so as not to run afoul of the statutory prohibitions on
+common carrier treatment. Cellco, 700 F.3d at 548.
+
+     Whatever the merits of this view, the Commission
+advanced nothing like it either in the underlying Order or in its
+briefs before this court. Instead, it makes no distinction at all
+between the anti-discrimination and anti-blocking rules,
+seeking to justify both types of rules with explanations that, as
+we have explained, are patently insufficient. We are unable to
+                                    62
+
+sustain the Commission's action on a ground upon which the
+agency itself never relied. Lacson v. Department of Homeland
+Security, 726 F.3d 170, 177 (D.C. Cir. 2013); see also United
+States v. Southerland, 486 F.3d 1355, 1360 (D.C. Cir. 2007)
+("argument[s] . . . raised for the first time at oral argument [are]
+forfeited"). Nor may we defer to a reading of a statutory term
+that the Commission never offered. Shieldalloy Metallurgical
+Corp. v. Nuclear Regulatory Comm'n, 624 F.3d 489, 495 (D.C.
+Cir. 2010).
+
+     The disclosure rules are another matter. Verizon does not
+contend that these rules, on their own, constitute per se
+common carrier obligations, nor do we see any way in which
+they would. Also, because Verizon does not direct its First
+Amendment or Takings Clause claims against the disclosure
+obligations, we have no need to address those contentions here.
+
+     Verizon does argue that the disclosure rules are not
+severable, insisting that if the anti-discrimination and
+anti-blocking rules fall so too must the disclosure
+requirements. We disagree. "Whether the offending portion of
+a regulation is severable depends upon the intent of the agency
+and upon whether the remainder of the regulation could
+function sensibly without the stricken provision." MD/DC/DE
+Broadcasters Ass'n v. FCC, 236 F.3d 13, 22 (D.C. Cir. 2001)
+(emphasis omitted). At oral argument, Commission counsel
+explained that the rules function separately, Oral Arg. Tr. 81­
+82, and we are satisfied that the Commission would have
+adopted the disclosure rules absent the rules we now vacate,
+which, we agree, operate independently. See Davis County
+Solid Waste Management v. EPA, 108 F.3d 1454, 1457­59
+(D.C. Cir. 1997) (finding promulgated standard to be severable
+where EPA asserted in rehearing petition that, contrary to its
+position at oral argument, the standards could stand alone).
+                                    63
+
+                                   IV.
+
+     For the forgoing reasons, although we reject Verizon's
+challenge to the Open Internet Order's disclosure rules, we
+vacate both the anti-discrimination and the anti-blocking rules.
+See Northern Air Cargo v. U.S. Postal Service, 674 F.3d 852,
+860­61 (D.C. Cir. 2012) (appropriateness of vacatur dependent
+on whether "(1) the agency's decision is so deficient as to raise
+serious doubts whether the agency can adequately justify its
+decision at all; and (2) vacatur would be seriously disruptive or
+costly"); Comcast, 600 F.3d at 661 (vacating the Comcast
+Order). We remand the case to the Commission for further
+proceedings consistent with this opinion.
+
+                                                             So ordered.
+     SILBERMAN, Senior Circuit Judge, concurring in part and
+dissenting in part: I am in general agreement with the majority's
+conclusion that the Open Internet Order impermissibly subjects
+broadband providers to treatment as common carriers, but I
+disagree with the majority's conclusion that § 706 otherwise
+provides the FCC with affirmative statutory authority to
+promulgate these rules. I also think the Commission's reasoning
+violates the Administrative Procedure Act. These differences are
+important since the majority opinion suggests possible
+regulatory modifications that might circumvent the prohibition
+against common carrier treatment.
+
+                                     I.
+
+     The Commission's net neutrality regulation is purportedly
+designed to promote innovation among edge providers who, in
+turn, provide Internet user experience, thereby increasing user
+demand for broadband service and, ultimately, encouraging
+broadband providers to invest in infrastructure development to
+meet that demand. Open Internet Order, 25 F.C.C.R. 17905,
+17907 ¶ 13 (2010). Verizon describes this theory as a "triple
+cushion shot." As I will show, whatever its logic, it is based on
+a faulty factual premise. But my first disagreement with the
+Commission, and the majority, is to the claimed statutory
+authority.
+
+     I quite agree with the majority that the relevant statutory
+language is § 706 of the Communications Act. 47 U.S.C. §
+1302. Although the FCC purports to rely on a scatter shot of
+other provisions of the statute, as well as § 706, none of those
+other provisions truly bear on the issue. "Emanations from the
+penumbra" may once have served to justify constitutional
+interpretation, but it hasn't caught on as legitimate statutory
+interpretation. I also agree with the majority ­ and disagree with
+Verizon ­ that § 706 is a grant of positive regulatory authority,
+but it doesn't come close to sanctioning the Commission's
+regulation.
+                                     2
+
+     The statute directs the Commission to "encourage the
+deployment on a reasonable and timely basis of advanced
+telecommunications capability to all Americans . . . by utilizing
+. . . price cap regulation, regulatory forbearance, measures that
+promote competition in the local telecommunications market, or
+other regulating methods that remove barriers to infrastructure
+investment." 47 U.S.C. § 1302(a).1
+
+     The FCC contends for, and the majority grants, Chevron
+deference as to the interpretation of this language. I don't
+disagree that Chevron is called for, but Chevron "is not a wand
+by which courts can turn an unlawful frog into a legitimate
+prince." Associated Gas Distributors v. F.E.R.C., 824 F.2d 981,
+1001 (D.C. Cir. 1987).
+
+     The key words obviously are "measures that promote
+competition in the local telecommunications market or other
+regulating methods that remove barriers to infrastructure
+investment." Those are the words that grant actual authority. Yet
+the Commission does not ground its regulation on this language.
+Indeed, both the Commission and the majority conflate these
+two clauses, though they have distinct functions. "Promoting
+competition in the telecommunications market" implies a
+regulation that encourages broadband providers to compete with
+each other, head-to-head, on price and quality. Removing
+"barriers to infrastructure investment," on the other hand, does
+not necessarily require any increased competition in the
+
+1 Because § 706(b) contains almost the same language, it is
+unnecessary to discuss these two provisions separately. See 47 U.S.C.
+§ 1302(b) (The Commission "shall take immediate action . . . by
+removing barriers to infrastructure investment and by promoting
+competition in the telecommunications market.").
+                                     3
+
+telecommunications market.2 For example, if a particular
+broadband provider were a monopolist, then by regulating its
+prices, the Commission might encourage it to expand supply to
+increase profits, rather than artificially restrict supply so as to
+charge supracompetitive rates. Such a regulation would not
+increase competition, but it would at least potentially remove a
+barrier to investment. This is, essentially, the theory that the
+Commission purportedly relies on: If the Commission
+theoretically could spur demand for broadband, the Commission
+would encourage further infrastructure investment regardless of
+head-to-head competition. Thus, it is on the "removing barriers"
+clause, primarily,3 that the Order must stand or fall. Yet, the
+Commission never actually identifies any practices of the
+broadband providers as "barriers to investment" ­ not once in
+over 100 pages ­ probably because it would be so far fetched an
+interpretation of those words.
+
+     Nor does the Commission state (or argue in its brief),
+contrary to the majority's opinion, that the "triple cushion shot"
+­ the means by which the Commission hopes to stimulate
+demand for better broadband ­ is designed to increase
+competition in the broadband market. See Majority Op. at 31-32
+(citing 25 F.C.C.R. at 17910-11, 17970 ¶¶ 14, 120). Paragraph
+
+2 An example of a paradigmatic barrier to infrastructure investment
+would be state laws that prohibit municipalities from creating their
+own broadband infrastructure to compete against private companies.
+See Klint Finley, Why Your City Should Compete With Google's
+Super-Speed Internet, WIRED, May 28, 2013,
+http://www.wired.com/wiredenterprise/2013/05/community-fiber/.
+
+3 The transparency rules at least have the added benefit of
+facilitating consumer choice by providing information, which could
+lead to greater competition in the broadband market.
+                                     4
+
+14 makes no reference to competition,4 and paragraph 120 does
+not refer to competition between broadband providers in the
+local telecommunications market ­ which is the statutory
+objective. Indeed, paragraph 120 indicates that the
+Commission's objective is to protect the edge providers (not in
+
+4  The Internet's openness is critical to these outcomes,
+
+   because it enables a virtuous circle of innovation in which
+
+   new uses of the network ­ including new content,
+
+   applications, services, and devices ­ lead to increased end-
+
+   user demand for broadband, which drives network
+
+   improvements, which in turn lead to further innovative
+
+   network uses. Novel, improved, or lower-cost offerings
+
+   introduced by content, application, service, and device
+
+   providers spur end-user demand and encourage broadband
+
+   providers to expand their networks and invest in new
+
+   broadband technologies. Streaming video and e-commerce
+
+   applications, for instance, have led to major network
+
+   improvements such as fiber to the premises, VDSL, and
+
+   DOCSIS 3.0. These network improvements generate new
+
+   opportunities for edge providers, spurring them to innovate
+
+   further. Each round of innovation increases the value of the
+
+   Internet for broadband providers, edge providers, online
+
+   businesses, and consumers. Continued operation of this
+
+   virtuous circle, however, depends upon low barriers to
+
+   innovation and entry by edge providers, which drive end-
+
+   user demand.Restricting edge providers' ability to reach end
+
+   users, and limiting end users' ability to choose which edge
+
+   providers to patronize, would reduce the rate of innovation
+
+   at the edge and, in turn, the likely rate of improvements to
+
+   network infrastructure. Similarly, restricting the ability of
+
+   broadband providers to put the network to innovative uses
+
+   may reduce the rate of improvements to network
+
+   infrastructure.
+
+25 F.C.C.R. at 17910-11 ¶ 14.
+                                     5
+
+the telecommunications market) from content competition with
+the broadband providers.5
+
+     Indeed, the Commission frankly admits its purpose is much
+wider than the statutory objectives. It claims it must regulate
+broadly, so as to "protect[] consumer choice, free expression,
+end-user control, and the ability to innovate without
+permission," 25 F.C.C.R. at 17949 ¶ 78, which certainly
+
+5  In directing the Commission to "encourage the deployment
+
+   on a reasonable and timely basis of advanced
+
+   telecommunications capability to all Americans . . . by
+
+   utilizing . . . price cap regulation, regulatory forbearance,
+
+   measures that promote competition in the local
+
+   telecommunications market, or other regulating methods
+
+   that remove barriers to infrastructure investment," Congress
+
+   necessarily invested the Commission with the statutory
+
+   authority to carry out those acts. Indeed, the relevant Senate
+
+   Report explained that the provisions of Section 706 are
+
+   "intended to ensure that one of the primary objectives of the
+
+   [1996 Act] ­ to accelerate deployment of advanced
+
+   telecommunications capability ­ is achieved," and stressed
+
+   that these provisions are "a necessary fail-safe" to guarantee
+
+   that Congress's objective is reached. It would be odd indeed
+
+   to characterize Section 706(a) as a "fail-safe" that "ensures"
+
+   the Commission's ability to promote advanced services if it
+
+   conferred no actual authority. Here, under our reading,
+
+   Section 706(a) authorizes the Commission to address
+
+   practices, such as blocking VoIP communications,
+
+   degrading or raising the cost of online video, or denying end
+
+   users material information about their broadband service,
+
+   that have the potential to stifle overall investment in Internet
+
+   infrastructure and limit competition in telecommunications
+
+   markets.
+
+25 F.C.C.R. at 17970 ¶ 120 (emphasis added).
+                                     6
+
+indicates a Commission objective that exceeds the statutory
+authority granted in § 706.
+
+     The majority takes the statutory language even further; it
+states that the Commission's
+
+          authority to promulgate regulations that promote
+          broadband deployment encompasses the power to
+          regulate broadband providers' economic relationships
+          with edge providers if, in fact, the nature of those
+          relationships influences the rate and extent to which
+          broadband providers develop and expand services for
+          end users.
+
+Majority Op. at 33. So much for the terms "promote competition
+in the local telecommunications market" or "remove barriers to
+infrastructure investment." Presto, we have a new statute
+granting the FCC virtually unlimited power to regulate the
+Internet. This reading of § 706, as we said in Comcast Corp. v.
+FCC, "would virtually free the Commission from its
+congressional tether." 600 F.3d 642, 655 (D.C. Cir. 2010). The
+limiting principles the majority relies on are illusory.
+
+     The majority claims that the Commission cannot exceed its
+subject-matter jurisdiction over "interstate and foreign
+communication by wire and radio." 25 F.C.C.R. at 17970 ¶ 121
+(citing 47 U.S.C. § 152(a)). This is obviously true, but it is not
+a limitation on the Commission's interpretation of this specific
+statutory provision. The question is not whether the statute
+permits the Commission to do absolutely anything ­ of course
+it does not ­ but, rather, whether § 706 contains any intrinsic
+limitations. If the Commission's subject matter jurisdiction is a
+"limiting principle," then we might as well call the First
+Amendment a limiting principle, for surely the Commission
+could not censor the Internet, even if doing so did somehow
+increase broadband deployment.
+                                     7
+
+     According to the majority, the Commission is also
+restrained because it may only regulate pursuant to § 706 if it
+does so to achieve a particular purpose: to "encourage the
+deployment on a reasonable and timely basis of advanced
+telecommunications capability to all Americans." 25 F.C.C.R.
+at 17970 ¶ 121 (citing 47 U.S.C. § 1302(a)). This is an almost
+meaningless limitation, as demonstrated by the Open Internet
+Order itself. The Commission's theory is that an open Internet
+will spur demand for broadband infrastructure. Id. at 17907 ¶ 3.
+But any regulation that, in the FCC's judgment might arguably
+make the Internet "better," could increase demand. I do not see
+how this "limitation" prevents § 706 from being carte blanche
+to issue any regulation that the Commission might believe to be
+in the public interest.
+
+     To sum up, § 706 requires the Commission to identify a
+"barrier[] to infrastructure investment" or a measure that
+"promote[s] competition" in the broadband market ­ which it
+has not.
+
+                                    II.
+
+     Verizon alternatively argues that, even assuming that §
+706 grants the Commission its claimed authority, the regulation
+is arbitrary and capricious because its findings ­ such as they are
+­ lack substantial evidence. I agree. Although we are not faced
+with a formal adjudication which would be judged by substantial
+evidence on a closed record, factual determinations that underly
+regulations must still be premised on demonstrated ­ and
+reasonable ­ evidential support. See Motor Vehicle Mfrs. Ass'n
+of U.S., Inc. v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43
+(1983).
+
+     The Commission purports to fear that broadband providers
+might discriminate against, or even block, the Internet traffic of
+specific edge providers or classes of edge providers, perhaps
+                                     8
+
+because broadband providers offer some competing services or
+because they might charge certain edge providers for premium
+services. The majority puts it even more starkly, asserting that
+the Commission found that "broadband providers have the
+technical and economic ability to impose . . . restrictions" on
+edge providers. Majority Op. at 38 (emphasis added). But the
+Commission never actually made such a finding. Its conclusions
+are littered with "may," "if," and "might." For example,
+according to the Commission, a broadband provider:
+
+          · "may have economic incentives to block or
+                otherwise disadvantage specific edge providers"
+
+          · "might use this power to benefit its own or
+                affiliated offerings at the expense of unaffiliated
+                offerings"
+
+          · "may act to benefit edge providers that have paid
+                it to exclude rivals"
+
+          · "may have incentives to increase revenues by
+                charging edge providers"6
+
+          · "might withhold or decline to expand capacity in
+                order to `squeeze' non-prioritized traffic"
+
+25 F.C.C.R. at 17915-22 ¶¶ 21-29. To be sure, the majority
+correctly observes that we should defer to an agency's
+"predictive judgments as to the economic effect of a rule,"
+National Telephone Cooperative Ass'n v. FCC, 563 F.3d 536,
+541 (D.C. Cir. 2009), but deference to such a judgment must be
+based on some logic and evidence, not sheer speculation. That
+
+6 In this case, Verizon has indicated it does wish to explore two-
+sided pricing (charging both edge providers and consumers).
+                                     9
+
+a party "may" do something is hardly a finding ­ at least in
+American law ­ that a party has done or will do something.
+Moreover, whether or not the "triple cushion shot" theory is
+rational economics (and I have my doubts), it rests, as I have
+noted, on a false factual premise ­ that the evidence supports a
+finding that broadband providers across the board, in all
+markets, enjoy sufficient economic clout to take the above
+actions.
+
+     The Commission asserts ­ and the majority accepts ­ that
+broadband providers act as "gatekeepers" because each one has
+a so-called "terminating monopoly" over access to particular end
+users. These are terms, largely invented,7 the economic
+significance of which the Commission does not explain. All
+
+7 My research has not revealed any use of the phrase "terminating
+monopoly" outside of the context of these proceedings before the
+FCC. It does not appear to be an accepted economic term. A
+"gatekeeper," on the other hand, is an intermediary between a
+consumer and an upstream seller. And a consumer's willingness to
+switch to another available supplier depends on the prospective benefit
+measured against the transaction costs (how many blocks am I willing
+to walk, or how many phone calls am I willing to make?).
+
+     Recent literature suggests that gatekeepers may sometimes
+exercise market power against upstream suppliers even when the
+gatekeeper does not have enough market share to exercise downstream
+market power against consumers. See, e.g., Grimes, Warren S., Buyer
+Power and Retail Gatekeeper Power: Protecting Competition and the
+Atomistic Seller, 72 ANTITRUST L. J. 563, 580 (2005). One example
+would be if I purchase my groceries at a particular store, any food
+supplier who wishes to sell to me probably must do so through that
+particular store because I am unlikely to switch grocery stores over a
+single product. Regardless of any contemporary debates over the
+differences between buyer power and seller power, one thing is clear:
+The gatekeeper effect is a tool that facilitates the exercise of market
+power over sellers; it is not market power itself.
+                                    10
+
+retail stores, for instance, are "gatekeepers." The term is thus
+meaningful only insofar as the gatekeeper by means of a
+powerful economic position vis-a-vis consumers gains leverage
+over suppliers.8 The Commission made no effort to construct an
+analytic framework to measure this supposed gateway advantage
+­ it is a rather slippery concept ­ nor did it adduce evidence to
+establish the economic power it would supposedly afford all
+broadband providers against all edge providers.
+
+     Without broadband provider market power, consumers, of
+course, have options; they can go to another broadband provider
+if they want to reach particular edge providers or if their
+connections to particular edge providers have been degraded.
+The Commission implicitly recognizes this, because it justifies
+exempting dial-up Internet providers from the Order by noting
+that "telephone service has historically provided the easy ability
+to switch among competing dial-up Internet access services." 25
+F.C.C.R. at 17935 ¶ 51. The Commission also exempts
+"backbone" Internet providers ­ which interconnect between
+broadband providers ­ obviously for the same reason. On the
+other hand, the Commission asserts that broadband customers
+may have few alternatives or they may be locked into long-term
+
+8 The Commission treats each individual edge provider as
+analogous to an upstream seller in a retail context. But it seems more
+plausible that consumers consider "Internet access" to be the product
+that they are buying, and that large product creates greater incentives
+to switch to another provider. Although the Commission has argued
+that consumers will perceive a slow connection to a particular edge
+provider as indicative of a problem with that edge provider, rather than
+as a problem with the quality of Internet access provided by the
+broadband provider, 25 F.C.C.R. at 17921 ¶ 27, the Commission
+presents no evidence to support that conclusion. Indeed, edge
+providers have a strong incentive to inform consumers if their
+connections are being degraded. Moreover, the transparency rule,
+which we uphold, makes this outcome almost impossible.
+                                    11
+
+contracts with early-termination fees. To be sure, some difficulty
+switching broadband providers is certainly a factor that might
+contribute to a firm's having market power, but that itself is not
+market power. There are many industries in which switching
+between competitors is not instantly achieved, but those
+industries may still be heavily disciplined by competitive forces
+because consumers will switch unless there are real barriers. By
+pointing to potential difficulties consumers may encounter
+switching broadband providers, the Commission is simply
+implying that broadband providers have market power (market
+power lite?), without actually examining if and where they do.
+
+     Although Verizon was reluctant to concede that even if a
+broadband provider had market power that would authorize the
+Commission to take action under § 706 ­ presumably because
+it challenged any regulatory authority under § 706 ­ it did bring
+to our attention a Justice Department submission, discussed
+infra, that emphasized the necessity of the Commission limiting
+its regulatory initiatives to the control of broadband market
+power. Ex Parte Submission of the U.S. DOJ at 28, Docket No.
+09-51 (Jan. 4, 2010). My discussion of market power reflects my
+view (and apparently the Justice Department's) of what evidence
+would be adequate to support the Commission's rule. In any
+event, Verizon certainly challenged the factual basis of the
+Commission's "gateway" conclusion, so I don't think the
+existence vel non of market power is really a different
+consideration. See Majority Op. at 40-41.
+
+     The majority does contend that four possible instances of
+broadband providers restricting users' access to certain edge
+providers are sufficient evidence of broadband providers'
+"incentives and ability to restrict Internet traffic." Majority Op.
+at 43. That the Commission was able to locate only four
+potential examples of such conduct is, frankly, astonishing. In
+such a large industry where, as Verizon notes, billions of
+connections are formed between users and edge providers each
+                                    12
+
+year, one would think there should be ample examples of just
+about any type of conduct. But even if examples of such conduct
+were more numerous, it would still not be evidence that
+broadband providers are economically capable of restricting
+consumer choice. And, as the Commission noted, there are
+potentially efficient, pro-consumer reasons that an individual
+broadband provider might wish to restrict access to some edge
+providers. See 25 F.C.C.R. at 17921 ¶ 28 n.80 ("Economics
+literature recognizes that access charges could be harmful under
+some circumstances and beneficial under others. . . . [T]he
+economic literature on two-sided markets is at an early stage of
+development."). The Commission's anecdotes then do not show
+that any broadband providers are capable of actually causing the
+harm about which the Commission is concerned.
+
+     My view, then, is that the Commission's failure to conduct
+a market power analysis is fatal to its attempt to regulate,
+because it means that there is inadequate evidence to support the
+lynchpin of the Commission's economic theory. The
+Commission actually recognized that a finding of market power
+would enhance its theory. 25 F.C.C.R. at 17923 ¶ 32. Indeed!
+But such a finding would, of course, have to be made market to
+market (indeed the statute specifically references local
+telecommunications markets), and if so, it would be a finding of
+a barrier to broadband investment without the mental gymnastics
+of the triple cushion shot. If one (or two) broadband providers
+have market power in any particular market and thereby could
+raise prices while restricting supply, the Commission could well
+conclude that was a barrier to broadband investment.
+
+     Of course, before the Commission could determine whether
+a particular broadband provider possesses market power, it
+would have to first define the relevant market. Instead, the
+Commission, in this case, simply cited a 2009 study that found
+that "nearly 70 percent of households lived in census tracts
+where only one or two wireline or fixed wireless firms provided
+                                    13
+
+advertised download speeds of at least 3 Mbps and upload
+speeds of at least 768 Kbps." 25 F.C.C.R. at 17923 ¶ 32. Why
+are these speeds relevant? Because the Commission has
+previously, as part of its statutory duty to assess the state of
+broadband deployment, defined "broadband" to mean download
+speeds of at least 4 Mbps and upload speeds of at least 1 Mbps.
+Sixth Broadband Deployment Report, 25 F.C.C.R. 9556, 9559
+¶ 5 (2010). According to the Commission, it is the minimum
+speed necessary to stream high quality video while
+simultaneously browsing the Internet and using email. Id. I don't
+dispute the legitimacy of that definition. Yet, while the
+Commission is free to rely on technical considerations in
+defining the statutory term "broadband," such considerations are
+irrelevant when it comes to defining the market in economic
+terms. A broadband provider offering a 2 Mbps connection is
+not, according to the FCC, really offering broadband. But it is
+quite likely that consumers, in deciding which Internet service
+to purchase, will compare products at varying speeds and price
+points. Slower service providers can still exert competitive
+pressure on faster service providers. So, too, can mobile
+broadband providers. Before the Commission can conclude that
+a market is concentrated, it must first define that market. It has
+made no effort to do so.
+
+     The Commission, moreover, does not address whether the
+trend in the broadband market is towards more or less
+competition. Obviously the deployment of broadband
+infrastructure is a capital-intensive process, and it should not be
+surprising if, during a period of expansion, some areas are
+served by fewer competitors than others. But there is no
+evidence in the record suggesting that broadband providers are
+carving up territory or avoiding head-to-head competition. At
+least anecdotally, the opposite seems to be true. Google has now
+entered the broadband market as a direct competitor:
+                                    14
+
+          Google's ultra-high-speed Internet service may finally
+          be scaring the big Internet providers into action.
+          Following Google's announcement that it will expand
+          into Austin, Texas, AT&T announced it will offer fiber
+          Internet in the city, and Time Warner Cable announced
+          it would offer citywide wireless Internet service.
+
+          But smaller companies are also trying to head off
+          Google before the company even makes an
+          announcement in their communities. This week, for
+          example, the Lawrence, Kansas-based Internet
+          provider Wicked Broadband began taking pre-orders
+          for a residential fiber Internet service with speeds to
+          rival Google Fiber's.
+
+Klint Finley, Google Fiber Spurs Mom-and-Pop Net Providers
+Too, WIRED, Apr. 26, 2013,
+http://www.wired.com/wiredenterprise/2013/04/google-fiber-
+wicked/.
+
+     The Commission apparently wanted to avoid a disciplined
+inquiry focused on market power, notwithstanding the warning
+it received from the Justice Department less than a year before
+the regulation issued ­ which, as I noted, Verizon cited ­ a
+warning that unless the FCC's focus was on market power, any
+regulation could actually discourage broadband development,
+thus frustrating the statutory objective:
+
+          Although enacting some form of regulation to prevent
+          certain providers from exercising monopoly power
+          may be tempting with regard to . . . areas [served by
+          only one or two broadband providers], care must be
+          taken to avoid stifling the infrastructure investments
+          needed to expand broadband access. In particular, price
+          regulation would be appropriate only where necessary
+          to protect consumers from the exercise of monopoly
+                                    15
+
+          power and where such regulation would not stifle
+          incentives to invest in infrastructure deployment.
+
+Ex Parte Submission of the U.S. DOJ at 28, Docket No. 09-51
+(Jan. 4, 2010).
+
+     The Commission did postulate one other economic theory
+supposedly establishing a "barrier to infrastructure investment"
+that does not depend on the broadband providers possessing
+market power. It argued, essentially, that innovation among edge
+providers is a public good in that every broadband provider
+benefits from an open Internet, but each broadband provider has
+an individual incentive to charge edge providers for service
+because, if broadband providers were to forego that revenue
+stream, they would be unable to internalize all of the supposed
+benefits to innovation. 25 F.C.C.R. at 17919 ¶ 25. In short, the
+Commission speculates that the Open Internet Order prevents
+a classic "tragedy of the commons"­ a situation in which each
+economic actor, behaving in his own self-interest, contributes to
+the destruction of a public good. See Garrett Hardin, The
+Tragedy of the Commons, 162 SCIENCE 1243 (1968). In such a
+situation, each actor would be better off if a central regulator
+prevented them from doing what would be in their private
+interest if they were acting unilaterally. Again, however, the
+Commission fails to make any real economic findings regarding
+whether these rules are actually necessary to prevent such a
+situation. As such, it is the sheerest of fanciful speculation.
+
+     Indeed, if a tragedy of the commons were likely in the
+broadband market, then one would expect Verizon and other
+broadband providers to support the Open Internet Order,
+because such a situation would be economically harmful to them
+in the long run. By the same token, when firms oppose, on
+antitrust grounds, the merger of competing firms, it is generally
+a reliable indicator that the merger is pro-competitive. See Frank
+H. Easterbrook, The Limits of Antitrust, 63 TEX. L. REV. 1, 18
+                                    16
+
+(1984) ("When a business rival brings suit, it is often safe to
+infer that the arrangement is beneficial to consumers."). Firms
+can generally be relied upon to know their own best interest.
+
+     Perhaps most troubling, the Commission fails to appreciate
+the long-term impact of its own regulations. An unwarranted
+government interference in a functioning market is likely to
+persist indefinitely, whereas a failure to intervene, even when
+regulation would be helpful, is likely to be only temporarily
+harmful because new innovations are constantly undermining
+entrenched industrial powers. See id. at 3 ("[J]udicial errors that
+tolerate baleful practices are self-correcting while erroneous
+condemnations are not."); Tim Wu, THE MASTER SWITCH 11
+(2010) ("But as we have said, that which is centralized also
+eventually becomes a target for assault[.]").
+
+     Nevertheless, the Commission justifies its aggressive,
+prophylactic regulation by asserting that the negative
+consequences of regulation (preserving the status quo) are likely
+to be minor, while the consequences of allowing the broadband
+market to evolve without regulation could be drastic and
+permanent. 25 F.C.C.R. at 17909 ¶ 12. I think this is quite
+wrong, but in any event, the agency's judgment about the
+propriety of leaping before looking cannot displace the judgment
+of Congress which, in enacting § 706, did not so broadly
+empower the Commission. Rather, Congress required the
+agency to identify an actual barrier to infrastructure investment
+or a threat to competition, and the agency must have evidence
+that the barrier or threat exists.
+
+                                    III.
+
+     Because the Open Internet Order obviously imposes
+common carrier obligations on broadband providers, I join
+generally the opinion of the Court with respect to Part III.
+Indeed, even noted proponents of "net neutrality" acknowledge
+                                    17
+
+as much: "[N]et neutrality is the twenty-first century's version
+of common carriage. . . . In the case of the Internet, common
+carriage under the name of net neutrality amounts to an FCC
+rule that bans any degree of blocking individual sites, [or]
+transmission of data." Tim Wu, THE MASTER SWITCH 236
+(2010).
+
+     I have, however, one quibble with the majority's analysis of
+the anti-blocking rules. Although ultimately concluding that the
+anti-blocking rules are unlawful, the majority says that whether
+those rules "likewise establish per se common carrier
+obligations is somewhat less clear." Majority Op. at 60.
+Although the Order states that, under the anti-blocking rules,
+broadband providers may not degrade content so as to make it
+"effectively unusable," the majority supposes that a broadband
+provider might voluntarily choose to offer service that is faster
+than the anti-blocking rules require, i.e., faster than the
+minimum speed necessary to make each edge provider
+effectively usable by consumers. By exceeding the minimum
+level of service, the majority suggests, the broadband providers
+would have wide latitude to engage in individualized bargaining,
+which might take this rule outside of common carriage per se.
+My concern with this hypothesis is that the phrase "effectively
+unusable" is subject to manipulation. I think it should mean that
+whatever speed is generally offered to most edge providers is the
+minimum necessary to be effectively usable. After all, it is
+artificial to distinguish between what is "effective" and what
+consumers expect. If a faster speed were to become standard, we
+would likely consider a slower speed to be effectively unusable.
+Thus, while there is a possibility that a "fast lane" Internet
+service might be offered on a non-common carriage basis, the
+service that most users receive under this rule would still have
+to be offered as common carriage, at a regulated price of zero.
+In any event, as the majority recognizes, the Commission did not
+                                    18
+make this argument, so the anti-blocking rules must fall.9
+
+                                  ***
+     This regulation essentially provides an economic preference
+to a politically powerful constituency, a constituency that, as is
+true of typical rent seekers, wishes protection against market
+forces. The Commission does not have authority to grant such
+a favor.
+
+9 I do think that the transparency rules rest on firmer ground. The
+Commission is required to make triennial reports to Congress on
+"market entry barriers" in information services, 47 U.S.C. § 257, and
+requiring disclosure of network management practices appears to be
+reasonably ancillary to that duty. I also agree with the majority's
+conclusion that the disclosure rules are severable from the anti-
+discrimination and anti-blocking rules.
+

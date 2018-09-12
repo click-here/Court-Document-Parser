@@ -27,4 +27,6 @@ short_sents = [x for x in sents if len(x) < 4]
 
 sents = [x for x in sents if x not in short_sents]
 
-[x for x in sents if x.startswith(chr(167))]
+remove_too_much = [x for x in sents if x.startswith(chr(167))]
+
+sents = [x for x in sents if x not in remove_too_much]
