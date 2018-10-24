@@ -1,21 +1,43 @@
 import requests
-import PyPDF2
-from io import BytesIO
+import os 
+import subprocess
 import nltk
 from nltk.tokenize import sent_tokenize
 
-url = 'https://www.cadc.uscourts.gov/internet/opinions.nsf/3AF8B4D938CDEEA685257C6000532062/$file/11-1355-1474943.pdf'
+url = 'https://www.supremecourt.gov/opinions/09pdf/08-205.pdf'
+
 r = requests.get(url)
 
-full_text = ''
+file_name = os.path.splitext(os.path.basename(url))[0]
 
-with BytesIO(r.content) as pdf_file:
-    read_pdf = PyPDF2.PdfFileReader(pdf_file)
-    for p in read_pdf.pages:
-        full_text += p.extractText()
+pdf_destination = os.path.join('pdfs/',file_name + '.pdf')
+txt_destination = os.path.join('text-outputs/',file_name + '.txt')
 
 
-full_text = full_text.replace('\n',' ')
+with open(pdf_destination, 'wb') as f:
+    f.write(r.content)
+
+subprocess.call(['pdftotext', pdf_destination, txt_destination])
+
+
+with open(txt_destination, 'r') as f:
+    opinion_text = f.read()
+
+
+full_text = opinion_text.replace('\n',' ')
+
+class SCOTUSOpinion:
+    
+    def __init__(self, path_to_opinion_txt):
+        self.filepath = path_to_opinion_txt
+        self.filename = os.path.splitext(os.path.basename(path_to_opinion_txt))[0]
+
+        try:
+            with open(self.filepath, 'r') as f:
+                self.text = f.read()
+        except IOError:
+            raise IOError("{} not found".format(self.filename))
+
 
 sents = sent_tokenize(full_text)
 
