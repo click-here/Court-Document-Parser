@@ -11,10 +11,19 @@ from nltk.tokenize import sent_tokenize
 
 url = 'https://www.supremecourt.gov/opinions/09pdf/08-205.pdf'
 
+##soft_hyphen = chr(173)
+
+# continue playing with this for cleaner case name
+m = re.search(r'(?<=205\n_{17}\n).+\n?.+(?=\n\n)',a.text)
+m.group(0)
+# doesn't work for 'https://www.supremecourt.gov/opinions/17pdf/15-1204_f29g.pdf'
+# and be sure to clean file names before inferring things!
+
+
 class SCOTUSOpinion:
     
-    def __init__(self, path_to_opinion_txt, url = url):
-        self.url = url
+    def __init__(self, path_to_opinion_txt):
+        self.url = path_to_opinion_txt
         self.filename = os.path.splitext(os.path.basename(self.url))[0]
 
         r = requests.get(self.url, stream=True)
@@ -48,10 +57,16 @@ class SCOTUSOpinion:
 
         self.text = '\n'.join(lines)
 
-    def open(self):
+    def open_opinion(self):
         webbrowser.open(self.url)
-        
+
+
+    def syllabus(self):
+        pass
+
 a = SCOTUSOpinion(url)
+
+##a = SCOTUSOpinion(url)
 
 ##sents = sent_tokenize(full_text)
 ##
